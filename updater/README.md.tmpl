@@ -1,0 +1,26 @@
+**Hi, I'm Brandur.**
+
+I like databases, the independent web, and fast interfaces. I write in full sentences on Slack and use emoticons instead emoji. I think the modern web took a wrong turn on its evolutionary path and that we should resurrect ideas from the earlier days of computing — less centralization, software that's harder to learn but more powerful, and wider technical literacy.
+
+My [personal website is here](https://brandur.org) and I'm on Twitter at [***@brandur***](https://twitter.com/brandur).
+
+---
+
+I'm a sometimes writer. Most frequently by publishing a newsletter called [Nanoglyph](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
+{{range (slice .Nanoglyphs 0 3)}}
+* ⓝ [{{.Title}}]({{.Link.Href}}) <sub><em>{{.Published.Format "January 2, 2006"}}</em></sub>
+{{- end}}
+
+---
+
+I put other stream of consciousness thoughts into tiny blog posts called **fragments**:
+{{range (slice .Fragments 0 3)}}
+* 🐚 [{{.Title}}]({{.Link.Href}}) <sub><em>{{.Published.Format "January 2, 2006"}}</em></sub>
+{{- end}}
+
+---
+
+Once in a while, I write longer form articles:
+{{range (slice .Articles 0 3)}}
+* 📖 [{{.Title}}]({{.Link.Href}}) <sub><em>{{.Published.Format "January 2006"}}</em></sub>
+{{- end}}

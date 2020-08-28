@@ -53,3 +53,4 @@ jobs:
           git add -u
           git commit -m "Automatic update from GitHub Action" || exit 0
           git push
+        if: github.ref == 'refs/heads/master'

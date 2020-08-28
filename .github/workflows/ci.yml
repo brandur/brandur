@@ -1,0 +1,46 @@
+name: brandur CI
+
+on:
+  pull_request:
+  push:
+  schedule:
+    # Once every 3 hours.
+    - cron: "0 */3 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Install Go
+        uses: actions/setup-go@v2
+
+      - name: Install Golint
+        if: steps.cache-dependencies.outputs.cache-hit != 'true'
+        run: go get -u golang.org/x/lint/golint
+
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Debug
+        run: |
+          echo "github.ref=${{ github.ref }}"
+          echo "go env GOPATH=$(go env GOPATH)"
+          echo "pwd=$(pwd)"
+          echo "GITHUB_WORKSPACE=${GITHUB_WORKSPACE}"
+          echo "HOME=${HOME}"
+
+      - name: "Go: Test"
+        run: go test ./...
+        working-directory: ./updater
+
+      - name: "Check: Gofmt"
+        run: scripts/check_gofmt.sh
+
+      - name: "Check: Golint"
+        run: $(go env GOPATH)/bin/golint -set_exit_status ./...
+
+      - name: "Generate README.md"
+        run: go run main.go
+        working-directory: ./updater

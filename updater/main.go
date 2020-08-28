@@ -115,15 +115,46 @@ func fail(err error) {
 	os.Exit(1)
 }
 
-func getAtomFeedItems(url string) ([]*Entry, error) {
+// Gets data at a URL. Connects and reads the entire response string, but
+// notably does not check for problems with bad status codes.
+func getURLData(url string) (*http.Response, []byte, error) {
 	resp, err := http.Get(url)
 	if err != nil {
-		return nil, errors.Wrapf(err, "Error fetching URL '%s'", url)
+		return nil, nil, errors.Wrapf(err, "Error fetching URL '%s'", url)
 	}
 
 	body, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
-		return nil, errors.Wrapf(err, "Error reading response body from URL '%s'", url)
+		return nil, nil, errors.Wrapf(err, "Error reading response body from URL '%s'", url)
+	}
+
+	return resp, body, nil
+}
+
+func getAtomFeedItems(url string) ([]*Entry, error) {
+	var body []byte
+	var err error
+	var resp *http.Response
+
+	// A very simple backoff loop that tries to make the build more stable by
+	// retrying transient errors so that I won't get emailed about them. (This
+	// is mostly a prospective improvement. I haven't observed this happening,
+	// but expect that it might occasionally.)
+	for _, backoffSecs := range []int{1, 3, 10} {
+		resp, body, err = getURLData(url)
+
+		if err == nil {
+			break
+		}
+
+		fmt.Fprintf(os.Stderr, "%+v\n", err)
+		fmt.Fprintf(os.Stderr, "Retrying in %v second(s)\n", backoffSecs)
+		time.Sleep(time.Duration(backoffSecs) * time.Second)
+	}
+
+	// All retries failed
+	if err != nil {
+		return nil, err
 	}
 
 	if resp.StatusCode != 200 {

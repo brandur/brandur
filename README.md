@@ -27,3 +27,9 @@ Once in a while, I write longer form articles:
 * 📖 [Doubling the Sorting Speed of Postgres Network Types with Abbreviated Keys](https://brandur.org/sortsupport-inet) <sub><em>August 2019</em></sub>
 * 📖 [Sequences: A Modest, Contra-garden Travel Project](https://brandur.org/sequences-project) <sub><em>June 2019</em></sub>
 * 📖 [Building a Robust Live Reloader with WebSockets and Go](https://brandur.org/live-reload) <sub><em>May 2019</em></sub>
+
+---
+
+This `README.md` is generated automatically by [a scheduled GitHub Action](https://github.com/brandur/brandur/blob/master/.github/workflows/ci.yml). More information on how that works [here](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).
+
+[![Build Status](https://github.com/brandur/brandur/workflows/brandur%20CI/badge.svg)](https://github.com/brandur/brandur/actions)

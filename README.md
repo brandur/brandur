@@ -14,7 +14,7 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [Nanog
 
 ---
 
-I put other stream of consciousness thoughts into tiny blog posts called **fragments**:
+I put other stream of consciousness thoughts into tiny blog posts called [fragments](https://brandur.org/fragments):
 
 * 🐚 [TTL indexes in Mongo](https://brandur.org/fragments/ttl-indexes) <sub><em>August 26, 2020</em></sub>
 * 🐚 [Beginner Japanese](https://brandur.org/fragments/beginner-japanese) <sub><em>August 25, 2020</em></sub>
@@ -22,7 +22,7 @@ I put other stream of consciousness thoughts into tiny blog posts called **fragm
 
 ---
 
-Once in a while, I write longer form articles:
+Once in a while, I write longer form [articles](https://brandur.org/articles):
 
 * 📖 [Doubling the Sorting Speed of Postgres Network Types with Abbreviated Keys](https://brandur.org/sortsupport-inet) <sub><em>August 2019</em></sub>
 * 📖 [Sequences: A Modest, Contra-garden Travel Project](https://brandur.org/sequences-project) <sub><em>June 2019</em></sub>

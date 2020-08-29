@@ -6,21 +6,21 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 ---
 
-I'm a sometimes writer. Most frequently by publishing a newsletter called [Nanoglyph](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
+I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 {{range (slice .Nanoglyphs 0 3)}}
 * ⓝ [{{.Title}}]({{.Link.Href}}) <sub><em>{{.Published.Format "January 2, 2006"}}</em></sub>
 {{- end}}
 
 ---
 
-I put other stream of consciousness thoughts into tiny blog posts called [fragments](https://brandur.org/fragments):
+I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 {{range (slice .Fragments 0 3)}}
 * 🐚 [{{.Title}}]({{.Link.Href}}) <sub><em>{{.Published.Format "January 2, 2006"}}</em></sub>
 {{- end}}
 
 ---
 
-Once in a while, I write longer form [articles](https://brandur.org/articles):
+Once in a while, I write longer form [**articles**](https://brandur.org/articles):
 {{range (slice .Articles 0 3)}}
 * 📖 [{{.Title}}]({{.Link.Href}}) <sub><em>{{.Published.Format "January 2006"}}</em></sub>
 {{- end}}

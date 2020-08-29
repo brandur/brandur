@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [A simple HTTP retry and backoff loop in Go](https://brandur.org/fragments/go-http-retry) <sub><em>August 29, 2020</em></sub>
 * 🐚 [TTL indexes in Mongo](https://brandur.org/fragments/ttl-indexes) <sub><em>August 26, 2020</em></sub>
 * 🐚 [Beginner Japanese](https://brandur.org/fragments/beginner-japanese) <sub><em>August 25, 2020</em></sub>
-* 🐚 [Development log: Turning on DMARC for sending email](https://brandur.org/fragments/dmarc) <sub><em>August 19, 2020</em></sub>
 
 ---
 

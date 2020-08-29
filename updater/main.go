@@ -24,7 +24,7 @@ func main() {
 	wg.Add(1)
 	go func() {
 		var err error
-		readmeData.Articles, err = getAtomFeedItems(baseURL + "/articles.atom")
+		readmeData.Articles, err = getAtomFeedEntries(baseURL + "/articles.atom")
 		if err != nil {
 			fail(err)
 		}
@@ -38,7 +38,7 @@ func main() {
 	wg.Add(1)
 	go func() {
 		var err error
-		readmeData.Fragments, err = getAtomFeedItems(baseURL + "/fragments.atom")
+		readmeData.Fragments, err = getAtomFeedEntries(baseURL + "/fragments.atom")
 		if err != nil {
 			fail(err)
 		}
@@ -52,7 +52,7 @@ func main() {
 	wg.Add(1)
 	go func() {
 		var err error
-		readmeData.Nanoglyphs, err = getAtomFeedItems(baseURL + "/nanoglyphs.atom")
+		readmeData.Nanoglyphs, err = getAtomFeedEntries(baseURL + "/nanoglyphs.atom")
 		if err != nil {
 			fail(err)
 		}
@@ -85,6 +85,16 @@ func main() {
 
 const baseURL = "https://brandur.org"
 
+// A backoff schedule for when and how often to retry failed HTTP requests. The
+// first element is the time to wait after the first failure, the second the
+// time to wait after the second failure, etc. After reaching the last element,
+// retries stop and the request is considered failed.
+var backoffSchedule = []time.Duration{
+	1 * time.Second,
+	3 * time.Second,
+	10 * time.Second,
+}
+
 // Feed represents an Atom feed. Used for deserializing XML.
 type Feed struct {
 	XMLName xml.Name `xml:"feed"`
@@ -115,44 +125,8 @@ func fail(err error) {
 	os.Exit(1)
 }
 
-// Gets data at a URL. Connects and reads the entire response string, but
-// notably does not check for problems with bad status codes.
-func getURLData(url string) (*http.Response, []byte, error) {
-	resp, err := http.Get(url)
-	if err != nil {
-		return nil, nil, errors.Wrapf(err, "Error fetching URL '%s'", url)
-	}
-
-	body, err := ioutil.ReadAll(resp.Body)
-	if err != nil {
-		return nil, nil, errors.Wrapf(err, "Error reading response body from URL '%s'", url)
-	}
-
-	return resp, body, nil
-}
-
-func getAtomFeedItems(url string) ([]*Entry, error) {
-	var body []byte
-	var err error
-	var resp *http.Response
-
-	// A very simple backoff loop that tries to make the build more stable by
-	// retrying transient errors so that I won't get emailed about them. (This
-	// is mostly a prospective improvement. I haven't observed this happening,
-	// but expect that it might occasionally.)
-	for _, backoffSecs := range []int{1, 3, 10} {
-		resp, body, err = getURLData(url)
-
-		if err == nil {
-			break
-		}
-
-		fmt.Fprintf(os.Stderr, "%+v\n", err)
-		fmt.Fprintf(os.Stderr, "Retrying in %v second(s)\n", backoffSecs)
-		time.Sleep(time.Duration(backoffSecs) * time.Second)
-	}
-
-	// All retries failed
+func getAtomFeedEntries(url string) ([]*Entry, error) {
+	resp, body, err := getURLDataWithRetries(url)
 	if err != nil {
 		return nil, err
 	}
@@ -170,6 +144,47 @@ func getAtomFeedItems(url string) ([]*Entry, error) {
 	}
 
 	return feed.Entries, nil
+}
+
+// Gets data at a URL. Connects and reads the entire response string, but
+// notably does not check for problems with bad status codes.
+func getURLData(url string) (*http.Response, []byte, error) {
+	resp, err := http.Get(url)
+	if err != nil {
+		return nil, nil, errors.Wrapf(err, "Error fetching URL '%s'", url)
+	}
+
+	body, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		return nil, nil, errors.Wrapf(err, "Error reading response body from URL '%s'", url)
+	}
+
+	return resp, body, nil
+}
+
+func getURLDataWithRetries(url string) (*http.Response, []byte, error) {
+	var body []byte
+	var err error
+	var resp *http.Response
+
+	for _, backoff := range backoffSchedule {
+		resp, body, err = getURLData(url)
+
+		if err == nil {
+			break
+		}
+
+		fmt.Fprintf(os.Stderr, "Request error: %+v\n", err)
+		fmt.Fprintf(os.Stderr, "Retrying in %v\n", backoff)
+		time.Sleep(backoff)
+	}
+
+	// All retries failed
+	if err != nil {
+		return nil, nil, err
+	}
+
+	return resp, body, nil
 }
 
 func renderTemplateToStdout(readmeData *READMEData) error {

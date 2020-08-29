@@ -6,7 +6,7 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 ---
 
-I'm a sometimes writer. Most frequently by publishing a newsletter called [Nanoglyph](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
+I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 
 * ⓝ [013 — Remote; the Origins of Postgres](https://brandur.org/nanoglyphs/013-remote) <sub><em>August 11, 2020</em></sub>
 * ⓝ [012 — Virtual Worlds](https://brandur.org/nanoglyphs/012-virtual-worlds) <sub><em>April 15, 2020</em></sub>
@@ -14,7 +14,7 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [Nanog
 
 ---
 
-I put other stream of consciousness thoughts into tiny blog posts called [fragments](https://brandur.org/fragments):
+I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
 * 🐚 [TTL indexes in Mongo](https://brandur.org/fragments/ttl-indexes) <sub><em>August 26, 2020</em></sub>
 * 🐚 [Beginner Japanese](https://brandur.org/fragments/beginner-japanese) <sub><em>August 25, 2020</em></sub>
@@ -22,7 +22,7 @@ I put other stream of consciousness thoughts into tiny blog posts called [fragme
 
 ---
 
-Once in a while, I write longer form [articles](https://brandur.org/articles):
+Once in a while, I write longer form [**articles**](https://brandur.org/articles):
 
 * 📖 [Doubling the Sorting Speed of Postgres Network Types with Abbreviated Keys](https://brandur.org/sortsupport-inet) <sub><em>August 2019</em></sub>
 * 📖 [Sequences: A Modest, Contra-garden Travel Project](https://brandur.org/sequences-project) <sub><em>June 2019</em></sub>

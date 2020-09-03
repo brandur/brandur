@@ -30,6 +30,6 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 ---
 
-This `README.md` is generated automatically by [a scheduled GitHub Action](https://github.com/brandur/brandur/blob/master/.github/workflows/ci.yml). More information on how that works [here](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/).
+This `README.md` is generated automatically by [a scheduled GitHub Action](https://github.com/brandur/brandur/blob/master/.github/workflows/ci.yml). More information on how that works [here](https://brandur.org/fragments/self-updating-github-readme).
 
 [![Build Status](https://github.com/brandur/brandur/workflows/brandur%20CI/badge.svg)](https://github.com/brandur/brandur/actions)

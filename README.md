@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [On the cruelty of kanji](https://brandur.org/fragments/kanji) <sub><em>September 16, 2020</em></sub>
 * 🐚 [Meditations on the impermanence of wireless earphones](https://brandur.org/fragments/wireless-earphones) <sub><em>September 15, 2020</em></sub>
 * 🐚 [SF go/no-go decision framework](https://brandur.org/fragments/sf-go-no-go) <sub><em>September 8, 2020</em></sub>
-* 🐚 [Building a self-updating GitHub README](https://brandur.org/fragments/self-updating-github-readme) <sub><em>August 29, 2020</em></sub>
 
 ---
 

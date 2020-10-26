@@ -8,9 +8,9 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 
+* ⓝ [016 — Postgres 13, Shrunken Indexes, Planet Earth](https://brandur.org/nanoglyphs/016-postgres-13) <sub><em>October 26, 2020</em></sub>
 * ⓝ [015 — Bladerunner Day, Ruby Type Signatures, Typing at Stripe](https://brandur.org/nanoglyphs/015-ruby-typing) <sub><em>October 12, 2020</em></sub>
 * ⓝ [014 — Local First](https://brandur.org/nanoglyphs/014-local-first) <sub><em>October 7, 2020</em></sub>
-* ⓝ [013 — Remote; the Origins of Postgres](https://brandur.org/nanoglyphs/013-remote) <sub><em>August 11, 2020</em></sub>
 
 ---
 

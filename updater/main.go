@@ -10,8 +10,6 @@ import (
 	"sync"
 	"text/template"
 	"time"
-
-	"github.com/pkg/errors"
 )
 
 func main() {
@@ -133,7 +131,7 @@ func getAtomFeedEntries(url string) ([]*Entry, error) {
 	}
 
 	if resp.StatusCode != 200 {
-		return nil, errors.Wrapf(err, "Non-200 status code fetching URL '%s': %v",
+		return nil, fmt.Errorf("non-200 status code fetching URL '%s': %v",
 			url, string(body))
 	}
 
@@ -141,7 +139,7 @@ func getAtomFeedEntries(url string) ([]*Entry, error) {
 
 	err = xml.Unmarshal(body, &feed)
 	if err != nil {
-		return nil, errors.Wrapf(err, "Error unmarshaling Atom feed XML")
+		return nil, fmt.Errorf("error unmarshaling Atom feed XML: %w", err)
 	}
 
 	return feed.Entries, nil
@@ -152,12 +150,12 @@ func getAtomFeedEntries(url string) ([]*Entry, error) {
 func getURLData(url string) (*http.Response, []byte, error) {
 	resp, err := http.Get(url)
 	if err != nil {
-		return nil, nil, errors.Wrapf(err, "Error fetching URL '%s'", url)
+		return nil, nil, fmt.Errorf("error fetching URL '%s': %w", url, err)
 	}
 
 	body, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
-		return nil, nil, errors.Wrapf(err, "Error reading response body from URL '%s'", url)
+		return nil, nil, fmt.Errorf("error reading response body from URL '%s': %w", url, err)
 	}
 
 	return resp, body, nil
@@ -195,7 +193,7 @@ func renderTemplateToStdout(readmeData *READMEData) error {
 
 	err := readmeTemplate.ExecuteTemplate(os.Stdout, "README.md.tmpl", readmeData)
 	if err != nil {
-		return errors.Wrap(err, "Error rendering README.md template")
+		return fmt.Errorf("error rendering README.md template: %w", err)
 	}
 
 	return nil

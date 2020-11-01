@@ -108,6 +108,7 @@ type Entry struct {
 	Link struct {
 		Href string `xml:"href,attr"`
 	} `xml:"link"`
+	Summary   string    `xml:"summary"`
 	Title     string    `xml:"title"`
 	Published time.Time `xml:"published"`
 }

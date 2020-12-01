@@ -24,9 +24,9 @@ I put other stream of consciousness thoughts into tiny blog posts called [**frag
 
 Once in a while, I write longer form [**articles**](https://brandur.org/articles):
 
+* 📖 [Casualties of Large Databases](https://brandur.org/large-database-casualties) <sub><em>December 2020</em></sub>
 * 📖 [Doubling the Sorting Speed of Postgres Network Types with Abbreviated Keys](https://brandur.org/sortsupport-inet) <sub><em>August 2019</em></sub>
 * 📖 [Sequences: A Modest, Contra-garden Travel Project](https://brandur.org/sequences-project) <sub><em>June 2019</em></sub>
-* 📖 [Building a Robust Live Reloader with WebSockets and Go](https://brandur.org/live-reload) <sub><em>May 2019</em></sub>
 
 ---
 

@@ -16,15 +16,15 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Aurora Babelfish](https://brandur.org/fragments/sql-server-babelfish) <sub><em>December 1, 2020</em></sub>
 * 🐚 [On the cruelty of kanji](https://brandur.org/fragments/kanji) <sub><em>September 16, 2020</em></sub>
 * 🐚 [Meditations on the impermanence of wireless earphones](https://brandur.org/fragments/wireless-earphones) <sub><em>September 15, 2020</em></sub>
-* 🐚 [SF go/no-go decision framework](https://brandur.org/fragments/sf-go-no-go) <sub><em>September 8, 2020</em></sub>
 
 ---
 
 Once in a while, I write longer form [**articles**](https://brandur.org/articles):
 
-* 📖 [Casualties of Large Databases](https://brandur.org/large-database-casualties) <sub><em>December 2020</em></sub>
+* 📖 [Feature Casualties of Large Databases](https://brandur.org/large-database-casualties) <sub><em>December 2020</em></sub>
 * 📖 [Doubling the Sorting Speed of Postgres Network Types with Abbreviated Keys](https://brandur.org/sortsupport-inet) <sub><em>August 2019</em></sub>
 * 📖 [Sequences: A Modest, Contra-garden Travel Project](https://brandur.org/sequences-project) <sub><em>June 2019</em></sub>
 

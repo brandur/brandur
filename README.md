@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [GitHub Actions: Setting env vars with other env vars](https://brandur.org/fragments/github-actions-env-vars-in-env-vars) <sub><em>December 3, 2020</em></sub>
 * 🐚 [Aurora Babelfish](https://brandur.org/fragments/sql-server-babelfish) <sub><em>December 1, 2020</em></sub>
 * 🐚 [On the cruelty of kanji](https://brandur.org/fragments/kanji) <sub><em>September 16, 2020</em></sub>
-* 🐚 [Meditations on the impermanence of wireless earphones](https://brandur.org/fragments/wireless-earphones) <sub><em>September 15, 2020</em></sub>
 
 ---
 

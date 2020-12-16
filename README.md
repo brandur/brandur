@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [350 MB](https://brandur.org/fragments/350-mb) <sub><em>December 16, 2020</em></sub>
 * 🐚 [WaniKani level 10](https://brandur.org/fragments/wanikani-10) <sub><em>December 12, 2020</em></sub>
 * 🐚 [Cookies vs. local storage](https://brandur.org/fragments/cookies-vs-local-storage) <sub><em>December 5, 2020</em></sub>
-* 🐚 [Apple M1: First impressions](https://brandur.org/fragments/m1) <sub><em>December 5, 2020</em></sub>
 
 ---
 

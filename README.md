@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Development log: Moving to flat files](https://brandur.org/fragments/flat-files) <sub><em>January 1, 2021</em></sub>
 * 🐚 [The Sopranos](https://brandur.org/fragments/the-sopranos) <sub><em>December 29, 2020</em></sub>
 * 🐚 [Tenet](https://brandur.org/fragments/tenet) <sub><em>December 27, 2020</em></sub>
-* 🐚 [The .org armageddon staved off, for now](https://brandur.org/fragments/eff-dot-org) <sub><em>December 24, 2020</em></sub>
 
 ---
 

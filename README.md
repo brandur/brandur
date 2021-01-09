@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Building Ruby 3 on Mac M1 ARM](https://brandur.org/fragments/ruby-3-on-m1) <sub><em>January 9, 2021</em></sub>
 * 🐚 [Development log: Rescuing history](https://brandur.org/fragments/rescuing-history) <sub><em>January 8, 2021</em></sub>
 * 🐚 [What to do in 2021](https://brandur.org/fragments/2021) <sub><em>January 3, 2021</em></sub>
-* 🐚 [What's good about offset pagination; designing parallel cursor-based web APIs](https://brandur.org/fragments/offset-pagination) <sub><em>January 2, 2021</em></sub>
 
 ---
 

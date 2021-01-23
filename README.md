@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [A WaniKani API Go Package](https://brandur.org/fragments/wani-kani-go-api-package) <sub><em>January 23, 2021</em></sub>
 * 🐚 [Cross-posting to Mastodon](https://brandur.org/fragments/mastodon-cross-posting) <sub><em>January 12, 2021</em></sub>
 * 🐚 [The Engelmann Spruce Plaque, Sulphur Mountain](https://brandur.org/fragments/engelmann-spruce-plaque-sulfur-mountain) <sub><em>January 12, 2021</em></sub>
-* 🐚 [Homebrew on M1 is a go](https://brandur.org/fragments/homebrew-m1) <sub><em>January 9, 2021</em></sub>
 
 ---
 

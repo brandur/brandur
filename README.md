@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [The great Signal migration](https://brandur.org/fragments/signal-migration) <sub><em>January 24, 2021</em></sub>
 * 🐚 [Roderick, canceled](https://brandur.org/fragments/roderick-canceled) <sub><em>January 23, 2021</em></sub>
 * 🐚 [A WaniKani API Go package](https://brandur.org/fragments/wani-kani-go-api-package) <sub><em>January 23, 2021</em></sub>
-* 🐚 [Cross-posting to Mastodon](https://brandur.org/fragments/mastodon-cross-posting) <sub><em>January 12, 2021</em></sub>
 
 ---
 

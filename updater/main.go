@@ -93,6 +93,8 @@ var backoffSchedule = []time.Duration{
 	10 * time.Second,
 }
 
+var localLocation *time.Location = mustLocation("America/Los_Angeles")
+
 // Feed represents an Atom feed. Used for deserializing XML.
 type Feed struct {
 	XMLName xml.Name `xml:"feed"`
@@ -122,6 +124,10 @@ type READMEData struct {
 func fail(err error) {
 	fmt.Fprintf(os.Stderr, "Error during execution:\n%v\n", err)
 	os.Exit(1)
+}
+
+func formatTimeLocal(t time.Time) string {
+	return t.In(localLocation).Format("January 2, 2006")
 }
 
 func getAtomFeedEntries(url string) ([]*Entry, error) {
@@ -186,9 +192,19 @@ func getURLDataWithRetries(url string) (*http.Response, []byte, error) {
 	return resp, body, nil
 }
 
+func mustLocation(locationName string) *time.Location {
+	locatio, err := time.LoadLocation(locationName)
+	if err != nil {
+		panic(err)
+	}
+	return locatio
+}
+
 func renderTemplateToStdout(readmeData *READMEData) error {
 	readmeTemplate := template.Must(
-		template.New("").ParseFiles("README.md.tmpl"),
+		template.New("").Funcs(template.FuncMap{
+			"FormatTimeLocal": formatTimeLocal,
+		}).ParseFiles("README.md.tmpl"),
 	)
 
 	err := readmeTemplate.ExecuteTemplate(os.Stdout, "README.md.tmpl", readmeData)

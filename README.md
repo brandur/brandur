@@ -16,17 +16,17 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
-* 🐚 [Large asset management in a Git-based static site](https://brandur.org/fragments/static-site-asset-management) <sub><em>January 25, 2021</em></sub>
+* 🐚 [Large asset management in a Git-based static site](https://brandur.org/fragments/static-site-asset-management) <sub><em>January 24, 2021</em></sub>
 * 🐚 [RSS, why didth I abandon ye?](https://brandur.org/fragments/rss-abandon) <sub><em>January 24, 2021</em></sub>
-* 🐚 [The great Signal migration](https://brandur.org/fragments/signal-migration) <sub><em>January 24, 2021</em></sub>
+* 🐚 [The great Signal migration](https://brandur.org/fragments/signal-migration) <sub><em>January 23, 2021</em></sub>
 
 ---
 
 Once in a while, I write longer form [**articles**](https://brandur.org/articles):
 
-* 📖 [Feature Casualties of Large Databases](https://brandur.org/large-database-casualties) <sub><em>December 2020</em></sub>
-* 📖 [Doubling the Sorting Speed of Postgres Network Types with Abbreviated Keys](https://brandur.org/sortsupport-inet) <sub><em>August 2019</em></sub>
-* 📖 [Sequences: A Modest, Contra-garden Travel Project](https://brandur.org/sequences-project) <sub><em>June 2019</em></sub>
+* 📖 [Feature Casualties of Large Databases](https://brandur.org/large-database-casualties) <sub><em>December 1, 2020</em></sub>
+* 📖 [Doubling the Sorting Speed of Postgres Network Types with Abbreviated Keys](https://brandur.org/sortsupport-inet) <sub><em>August 7, 2019</em></sub>
+* 📖 [Sequences: A Modest, Contra-garden Travel Project](https://brandur.org/sequences-project) <sub><em>June 4, 2019</em></sub>
 
 ---
 

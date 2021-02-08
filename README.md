@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Blog with Markdown + Git, and degrade gracefully through time](https://brandur.org/fragments/graceful-degradation-time) <sub><em>February 8, 2021</em></sub>
 * 🐚 [Large asset management in a Git-based static site](https://brandur.org/fragments/static-site-asset-management) <sub><em>January 24, 2021</em></sub>
 * 🐚 [RSS, why didth I abandon ye?](https://brandur.org/fragments/rss-abandon) <sub><em>January 24, 2021</em></sub>
-* 🐚 [The great Signal migration](https://brandur.org/fragments/signal-migration) <sub><em>January 23, 2021</em></sub>
 
 ---
 

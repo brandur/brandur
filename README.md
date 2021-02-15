@@ -8,17 +8,17 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 
+* ⓝ [019 — Anatomy of a Great API Library](https://brandur.org/nanoglyphs/019-api-libraries) <sub><em>February 15, 2021</em></sub>
 * ⓝ [018 — Ruby 3's Ractors](https://brandur.org/nanoglyphs/018-ractors) <sub><em>January 15, 2021</em></sub>
 * ⓝ [017 — Twenty Years](https://brandur.org/nanoglyphs/017-twenty) <sub><em>January 6, 2021</em></sub>
-* ⓝ [016 — Postgres 13, Shrunken Indexes, Planet Earth](https://brandur.org/nanoglyphs/016-postgres-13) <sub><em>October 26, 2020</em></sub>
 
 ---
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Predictions for San Francisco over two years](https://brandur.org/fragments/sf-two-years) <sub><em>February 15, 2021</em></sub>
 * 🐚 [Engineering blog posts: Apply healthy skepticism](https://brandur.org/fragments/engineering-skepticism) <sub><em>February 12, 2021</em></sub>
 * 🐚 [Blog with Markdown + Git, and degrade gracefully through time](https://brandur.org/fragments/graceful-degradation-time) <sub><em>February 8, 2021</em></sub>
-* 🐚 [Large asset management in a Git-based static site](https://brandur.org/fragments/static-site-asset-management) <sub><em>January 24, 2021</em></sub>
 
 ---
 

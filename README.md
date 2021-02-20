@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [The girl next door](https://brandur.org/fragments/girl-next-door) <sub><em>February 20, 2021</em></sub>
 * 🐚 [Predictions for San Francisco over two years](https://brandur.org/fragments/sf-two-years) <sub><em>February 15, 2021</em></sub>
 * 🐚 [Engineering blog posts: Apply healthy skepticism](https://brandur.org/fragments/engineering-skepticism) <sub><em>February 12, 2021</em></sub>
-* 🐚 [Blog with Markdown + Git, and degrade gracefully through time](https://brandur.org/fragments/graceful-degradation-time) <sub><em>February 8, 2021</em></sub>
 
 ---
 

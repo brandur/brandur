@@ -8,9 +8,9 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 
+* ⓝ [021 — Editors, IDEs; O Gods, What If Microsoft Was Right All Along?](https://brandur.org/nanoglyphs/021-ides) <sub><em>February 28, 2021</em></sub>
 * ⓝ [020 — Alfred & the Zen of Tool Sharpening](https://brandur.org/nanoglyphs/020-alfred) <sub><em>February 21, 2021</em></sub>
 * ⓝ [019 — Anatomy of a Great API Library](https://brandur.org/nanoglyphs/019-api-libraries) <sub><em>February 15, 2021</em></sub>
-* ⓝ [018 — Ruby 3's Ractors](https://brandur.org/nanoglyphs/018-ractors) <sub><em>January 15, 2021</em></sub>
 
 ---
 

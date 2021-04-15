@@ -8,9 +8,9 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 
+* ⓝ [024 — New Horizons](https://brandur.org/nanoglyphs/024-new-horizons) <sub><em>April 15, 2021</em></sub>
 * ⓝ [023 — Gradual Enhancement: New Language Features, Steadily](https://brandur.org/nanoglyphs/023-enhancement) <sub><em>April 7, 2021</em></sub>
 * ⓝ [022 — Time and Entropy](https://brandur.org/nanoglyphs/022-entropy) <sub><em>March 14, 2021</em></sub>
-* ⓝ [021 — Editors, IDEs; O Gods, What If Microsoft Was Right All Along?](https://brandur.org/nanoglyphs/021-ides) <sub><em>February 28, 2021</em></sub>
 
 ---
 

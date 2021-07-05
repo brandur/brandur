@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [`Idempotency-Key` IETF Standards Draft](https://brandur.org/fragments/idempotency-key-draft) <sub><em>July 4, 2021</em></sub>
 * 🐚 [The Heroku HTTP API Design Guide, revisited](https://brandur.org/fragments/heroku-http-api-design-guide) <sub><em>June 5, 2021</em></sub>
 * 🐚 [The state of Stripe API library codegen](https://brandur.org/fragments/stripe-codegen) <sub><em>April 25, 2021</em></sub>
-* 🐚 [Joining Crunchy Data](https://brandur.org/fragments/crunchy) <sub><em>April 9, 2021</em></sub>
 
 ---
 

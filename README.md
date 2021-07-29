@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [API design showcase: OpenAI](https://brandur.org/fragments/openai-api) <sub><em>July 29, 2021</em></sub>
 * 🐚 [Considerations for event APIs (versus webhooks)](https://brandur.org/fragments/events-api) <sub><em>July 21, 2021</em></sub>
 * 🐚 [Retry-friendly idempotent delete in web APIs](https://brandur.org/fragments/idempotent-delete) <sub><em>July 17, 2021</em></sub>
-* 🐚 [`Idempotency-Key` IETF standards draft](https://brandur.org/fragments/idempotency-key-draft) <sub><em>July 4, 2021</em></sub>
 
 ---
 

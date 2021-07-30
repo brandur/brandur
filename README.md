@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Why form encoding in web APIs is an anti-pattern](https://brandur.org/fragments/application-x-wwww-form-urlencoded) <sub><em>July 30, 2021</em></sub>
 * 🐚 [API design showcase: OpenAI](https://brandur.org/fragments/openai-api) <sub><em>July 29, 2021</em></sub>
 * 🐚 [Considerations for event APIs (versus webhooks)](https://brandur.org/fragments/events-api) <sub><em>July 21, 2021</em></sub>
-* 🐚 [Retry-friendly idempotent delete in web APIs](https://brandur.org/fragments/idempotent-delete) <sub><em>July 17, 2021</em></sub>
 
 ---
 

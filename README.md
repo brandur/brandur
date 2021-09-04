@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Accidentally walkable](https://brandur.org/fragments/accidentally-walkalbe) <sub><em>September 4, 2021</em></sub>
 * 🐚 [Go: Number of days in month](https://brandur.org/fragments/go-days-in-month) <sub><em>August 26, 2021</em></sub>
 * 🐚 [Error stack traces in Go with x/xerror](https://brandur.org/fragments/go-xerror) <sub><em>August 22, 2021</em></sub>
-* 🐚 [Why form encoding in web APIs is an anti-pattern](https://brandur.org/fragments/application-x-wwww-form-urlencoded) <sub><em>July 30, 2021</em></sub>
 
 ---
 

@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [It's time to stop truncating RSS content](https://brandur.org/fragments/stop-truncating-rss) <sub><em>September 8, 2021</em></sub>
 * 🐚 [Haruki Murakami interviewed by Paris Review](https://brandur.org/fragments/murakami-paris-review) <sub><em>September 7, 2021</em></sub>
 * 🐚 [HTTP API design: 204 "No content" mildly harmful](https://brandur.org/fragments/http-api-204s) <sub><em>September 7, 2021</em></sub>
-* 🐚 [K-sorted ID algorithms](https://brandur.org/fragments/k-sorted-ids) <sub><em>September 7, 2021</em></sub>
 
 ---
 

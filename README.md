@@ -24,9 +24,9 @@ I put other stream of consciousness thoughts into tiny blog posts called [**frag
 
 Once in a while, I write longer form [**articles**](https://brandur.org/articles):
 
+* 📖 [How We Went All In on sqlc/pgx for Postgres + Go](https://brandur.org/sqlc) <sub><em>September 8, 2021</em></sub>
 * 📖 [Minimally Invasive (and More Accurate) Analytics: GoAccess and Athena/SQL](https://brandur.org/minimal-analytics) <sub><em>February 16, 2021</em></sub>
 * 📖 [Feature Casualties of Large Databases](https://brandur.org/large-database-casualties) <sub><em>December 1, 2020</em></sub>
-* 📖 [Doubling the Sorting Speed of Postgres Network Types with Abbreviated Keys](https://brandur.org/sortsupport-inet) <sub><em>August 7, 2019</em></sub>
 
 ---
 

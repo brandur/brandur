@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [No Medium](https://brandur.org/fragments/no-medium) <sub><em>September 11, 2021</em></sub>
 * 🐚 [Important (but not required) parameters to include when connecting to Postgres](https://brandur.org/fragments/postgres-parameters) <sub><em>September 9, 2021</em></sub>
 * 🐚 [Write -> publish pipeline](https://brandur.org/fragments/write-publish-pipeline) <sub><em>September 9, 2021</em></sub>
-* 🐚 [It's time to stop truncating RSS content](https://brandur.org/fragments/stop-truncating-rss) <sub><em>September 8, 2021</em></sub>
 
 ---
 

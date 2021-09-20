@@ -8,9 +8,9 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 
+* ⓝ [028 — Lowbeer's Tipstaff; Cool Tools](https://brandur.org/nanoglyphs/028-cool-tools) <sub><em>September 20, 2021</em></sub>
 * ⓝ [027 — Red Rocks + 15 Minutes + K-sorted IDs](https://brandur.org/nanoglyphs/027-15-minutes) <sub><em>September 5, 2021</em></sub>
 * ⓝ [026 — Identity Crisis: Sequence v. UUID as Primary Key](https://brandur.org/nanoglyphs/026-ids) <sub><em>June 29, 2021</em></sub>
-* ⓝ [025 — Canonical Log Lines 2.0](https://brandur.org/nanoglyphs/025-logs) <sub><em>June 1, 2021</em></sub>
 
 ---
 

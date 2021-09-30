@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Program start check](https://brandur.org/fragments/program-start-check) <sub><em>September 30, 2021</em></sub>
+* 🐚 [AirPods Max](https://brandur.org/fragments/airpods-max) <sub><em>September 30, 2021</em></sub>
 * 🐚 [Tightening the bolts with golangci-lint](https://brandur.org/fragments/golangci-lint) <sub><em>September 26, 2021</em></sub>
-* 🐚 [go:embed in prod, serve-from-disk in development](https://brandur.org/fragments/go-embed) <sub><em>September 24, 2021</em></sub>
-* 🐚 [No Medium](https://brandur.org/fragments/no-medium) <sub><em>September 11, 2021</em></sub>
 
 ---
 

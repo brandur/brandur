@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Dropbox alternatives](https://brandur.org/fragments/dropbox-alternatives) <sub><em>November 7, 2021</em></sub>
 * 🐚 [Calgary in the spotlight](https://brandur.org/fragments/emptied-calgary) <sub><em>October 17, 2021</em></sub>
 * 🐚 [Simple internal idempotency by ID](https://brandur.org/fragments/simple-internal-idempotency) <sub><em>October 1, 2021</em></sub>
-* 🐚 [Program start check](https://brandur.org/fragments/program-start-check) <sub><em>September 30, 2021</em></sub>
 
 ---
 

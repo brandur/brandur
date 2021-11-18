@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Flags v. gates](https://brandur.org/fragments/flags-v-gates) <sub><em>November 18, 2021</em></sub>
 * 🐚 [The 16" MacBook Pro (late 2021)](https://brandur.org/fragments/macbook-pro-16-2021) <sub><em>November 16, 2021</em></sub>
 * 🐚 [Dropbox alternatives](https://brandur.org/fragments/dropbox-alternatives) <sub><em>November 7, 2021</em></sub>
-* 🐚 [Calgary in the spotlight](https://brandur.org/fragments/emptied-calgary) <sub><em>October 17, 2021</em></sub>
 
 ---
 

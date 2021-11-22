@@ -8,17 +8,17 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 
+* ⓝ [029 — The Path of Madness](https://brandur.org/nanoglyphs/029-path-of-madness) <sub><em>October 2, 2021</em></sub>
 * ⓝ [028 — Lowbeer's Tipstaff; Cool Tools](https://brandur.org/nanoglyphs/028-cool-tools) <sub><em>September 20, 2021</em></sub>
 * ⓝ [027 — Red Rocks + 15 Minutes + K-sorted IDs](https://brandur.org/nanoglyphs/027-15-minutes) <sub><em>September 5, 2021</em></sub>
-* ⓝ [026 — Identity Crisis: Sequence v. UUID as Primary Key](https://brandur.org/nanoglyphs/026-ids) <sub><em>June 29, 2021</em></sub>
 
 ---
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Implementing a random by ID flag type](https://brandur.org/fragments/flag-random-by-id) <sub><em>November 22, 2021</em></sub>
 * 🐚 [Netflix's Cowboy Bebop](https://brandur.org/fragments/netflix-cowboy-bebop) <sub><em>November 20, 2021</em></sub>
 * 🐚 [Flags v. gates](https://brandur.org/fragments/flags-v-gates) <sub><em>November 18, 2021</em></sub>
-* 🐚 [The 16" MacBook Pro (late 2021)](https://brandur.org/fragments/macbook-pro-16-2021) <sub><em>November 16, 2021</em></sub>
 
 ---
 

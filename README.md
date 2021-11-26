@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Idempotency keys @ Crunchy](https://brandur.org/fragments/idempotency-keys-crunchy) <sub><em>November 25, 2021</em></sub>
 * 🐚 [Implementing a random by ID flag type](https://brandur.org/fragments/flag-random-by-id) <sub><em>November 22, 2021</em></sub>
 * 🐚 [Netflix's Cowboy Bebop](https://brandur.org/fragments/netflix-cowboy-bebop) <sub><em>November 20, 2021</em></sub>
-* 🐚 [Flags v. gates](https://brandur.org/fragments/flags-v-gates) <sub><em>November 18, 2021</em></sub>
 
 ---
 

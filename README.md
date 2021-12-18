@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [The Bay Area as a declining tech company](https://brandur.org/fragments/bay-area-declining-tech-company) <sub><em>December 17, 2021</em></sub>
 * 🐚 [On the unreasonable effectiveness of streak tracking](https://brandur.org/fragments/streak-tracking) <sub><em>December 5, 2021</em></sub>
 * 🐚 [Idempotency keys @ Crunchy](https://brandur.org/fragments/idempotency-keys-crunchy) <sub><em>November 25, 2021</em></sub>
-* 🐚 [Implementing a random by ID flag type](https://brandur.org/fragments/flag-random-by-id) <sub><em>November 22, 2021</em></sub>
 
 ---
 

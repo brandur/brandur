@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [The Wheel of Time S1](https://brandur.org/fragments/wheel-of-time-s1) <sub><em>December 24, 2021</em></sub>
 * 🐚 [Can Slack-mania be cured with systemized discipline?](https://brandur.org/fragments/slack-mania) <sub><em>December 20, 2021</em></sub>
 * 🐚 [WaniKani midway check in](https://brandur.org/fragments/wanikani-midway) <sub><em>December 18, 2021</em></sub>
-* 🐚 [The Bay Area as a declining tech company](https://brandur.org/fragments/bay-area-declining-tech-company) <sub><em>December 17, 2021</em></sub>
 
 ---
 

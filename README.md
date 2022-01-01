@@ -8,9 +8,9 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 
+* ⓝ [030 — No Docker; Onionskin Stacks](https://brandur.org/nanoglyphs/030-onionskin) <sub><em>December 31, 2021</em></sub>
 * ⓝ [029 — The Path of Madness](https://brandur.org/nanoglyphs/029-path-of-madness) <sub><em>October 2, 2021</em></sub>
 * ⓝ [028 — Lowbeer's Tipstaff; Cool Tools](https://brandur.org/nanoglyphs/028-cool-tools) <sub><em>September 20, 2021</em></sub>
-* ⓝ [027 — Red Rocks + 15 Minutes + K-sorted IDs](https://brandur.org/nanoglyphs/027-15-minutes) <sub><em>September 5, 2021</em></sub>
 
 ---
 

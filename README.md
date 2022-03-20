@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [iOS Shortcuts: Appending dictated memos to Notes](https://brandur.org/fragments/shortcuts-notes-memos) <sub><em>March 19, 2022</em></sub>
 * 🐚 [Does laptop weight matter?](https://brandur.org/fragments/laptop-weight) <sub><em>March 19, 2022</em></sub>
 * 🐚 [Filtering Sentry spans no one looks at](https://brandur.org/fragments/sentry-span-filtering) <sub><em>February 17, 2022</em></sub>
-* 🐚 [Single dependency stacks](https://brandur.org/fragments/single-dependency-stacks) <sub><em>February 8, 2022</em></sub>
 
 ---
 

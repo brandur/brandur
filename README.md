@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Sorbet + 100% cov makes Ruby refactoring possible](https://brandur.org/fragments/large-scale-ruby-refactoring) <sub><em>April 25, 2022</em></sub>
 * 🐚 [UUID code stanzas in Ruby](https://brandur.org/fragments/ruby-uuid-stanzas) <sub><em>April 13, 2022</em></sub>
 * 🐚 [Reservation-style rate limiting APIs](https://brandur.org/fragments/reservation-api) <sub><em>March 27, 2022</em></sub>
-* 🐚 [iOS Shortcuts: Appending dictated memos to Notes](https://brandur.org/fragments/shortcuts-notes-memos) <sub><em>March 19, 2022</em></sub>
 
 ---
 

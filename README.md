@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Mostly automatic Go dependency updates with GitHub Actions](https://brandur.org/fragments/mostly-automatic-deps) <sub><em>June 7, 2022</em></sub>
 * 🐚 [Generating a random `float64` with `crypto/rand`](https://brandur.org/fragments/crypto-rand-float64) <sub><em>June 2, 2022</em></sub>
 * 🐚 [There's always an events table](https://brandur.org/fragments/events) <sub><em>May 1, 2022</em></sub>
-* 🐚 [Sorbet + 100% cov makes Ruby refactoring possible](https://brandur.org/fragments/large-scale-ruby-refactoring) <sub><em>April 25, 2022</em></sub>
 
 ---
 

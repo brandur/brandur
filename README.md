@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Idempotency: The `is_transient` property](https://brandur.org/fragments/is-transient) <sub><em>July 18, 2022</em></sub>
 * 🐚 [Code in database vs. code in application](https://brandur.org/fragments/code-database-vs-app) <sub><em>July 10, 2022</em></sub>
 * 🐚 [Spring '83](https://brandur.org/fragments/spring-83) <sub><em>June 20, 2022</em></sub>
-* 🐚 [Mostly automatic Go dependency updates with GitHub Actions](https://brandur.org/fragments/mostly-automatic-deps) <sub><em>June 7, 2022</em></sub>
 
 ---
 

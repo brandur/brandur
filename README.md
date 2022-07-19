@@ -24,9 +24,9 @@ I put other stream of consciousness thoughts into tiny blog posts called [**frag
 
 Once in a while, I write longer form [**articles**](https://brandur.org/articles):
 
+* 📖 [Soft Deletion Probably Isn't Worth It](https://brandur.org/soft-deletion) <sub><em>July 19, 2022</em></sub>
 * 📖 [Postgres: Boundless `text` and Back Again](https://brandur.org/text) <sub><em>September 10, 2021</em></sub>
 * 📖 [How We Went All In on sqlc/pgx for Postgres + Go](https://brandur.org/sqlc) <sub><em>September 8, 2021</em></sub>
-* 📖 [Minimally Invasive (and More Accurate) Analytics: GoAccess and Athena/SQL](https://brandur.org/minimal-analytics) <sub><em>February 16, 2021</em></sub>
 
 ---
 

@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Go wishlist (2022)](https://brandur.org/fragments/go-wishlist-2022) <sub><em>August 11, 2022</em></sub>
 * 🐚 [READMEs are a great idea, still](https://brandur.org/fragments/readmes) <sub><em>August 7, 2022</em></sub>
 * 🐚 [Operational convergence, for REPL-less languages like Go](https://brandur.org/fragments/operational-convergence) <sub><em>July 25, 2022</em></sub>
-* 🐚 [The disproportionate influence of early tech decisions](https://brandur.org/fragments/early-tech-decisions) <sub><em>July 23, 2022</em></sub>
 
 ---
 

@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Ephemeral DB, a sacrificial database line for high-throughput data](https://brandur.org/fragments/ephemeral-db) <sub><em>November 2, 2022</em></sub>
 * 🐚 [Postgres: Safely renaming a table with no downtime using updatable views](https://brandur.org/fragments/postgres-table-rename) <sub><em>October 27, 2022</em></sub>
 * 🐚 [Partitioning in Postgres, 2022 edition](https://brandur.org/fragments/postgres-partitioning-2022) <sub><em>October 5, 2022</em></sub>
-* 🐚 [Go wishlist (2022)](https://brandur.org/fragments/go-wishlist-2022) <sub><em>August 11, 2022</em></sub>
 
 ---
 

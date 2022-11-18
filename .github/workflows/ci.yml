@@ -16,10 +16,6 @@ jobs:
       - name: Install Go
         uses: actions/setup-go@v2
 
-      - name: Install Golint
-        if: steps.cache-dependencies.outputs.cache-hit != 'true'
-        run: go get -u golang.org/x/lint/golint
-
       - name: Checkout
         uses: actions/checkout@v2
 
@@ -37,9 +33,6 @@ jobs:
 
       - name: "Check: Gofmt"
         run: scripts/check_gofmt.sh
-
-      - name: "Check: Golint"
-        run: $(go env GOPATH)/bin/golint -set_exit_status ./...
 
       - name: "Generate README.md"
         run: OUT=$(go run main.go) && echo "$OUT" > ../README.md

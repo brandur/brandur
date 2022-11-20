@@ -59,6 +59,15 @@ func main() {
 			return nil
 		})
 
+		//
+		// Sequences
+		//
+		errGroup.Go(func() error {
+			var err error
+			readmeData.Sequences, err = getAtomFeedEntries(ctx, baseURL+"/sequences.atom")
+			return err
+		})
+
 		if err := errGroup.Wait(); err != nil {
 			fail(err)
 		}
@@ -118,6 +127,7 @@ type READMEData struct {
 	Articles   []*Entry
 	Fragments  []*Entry
 	Nanoglyphs []*Entry
+	Sequences  []*Entry
 }
 
 func fail(err error) {

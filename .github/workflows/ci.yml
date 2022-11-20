@@ -91,3 +91,7 @@ jobs:
 
       - name: "Check: Gofmt"
         run: scripts/check_gofmt.sh
+
+      - name: "Generate README.md"
+        run: OUT=$(go run main.go) && echo "$OUT" > ../README.md
+        working-directory: ./updater

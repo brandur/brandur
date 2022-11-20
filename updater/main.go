@@ -1,69 +1,68 @@
 package main
 
 import (
+	"context"
 	"encoding/xml"
 	"fmt"
 	"io/ioutil"
 	"net/http"
 	"os"
 	"strings"
-	"sync"
 	"text/template"
 	"time"
+
+	"golang.org/x/sync/errgroup"
+	"golang.org/x/xerrors"
 )
 
 func main() {
+	ctx := context.Background()
 	var readmeData READMEData
-	var wg sync.WaitGroup
 
-	//
-	// Articles
-	//
-	wg.Add(1)
-	go func() {
-		var err error
-		readmeData.Articles, err = getAtomFeedEntries(baseURL + "/articles.atom")
-		if err != nil {
+	{
+		errGroup, ctx := errgroup.WithContext(ctx)
+		errGroup.SetLimit(10)
+
+		//
+		// Articles
+		//
+		errGroup.Go(func() error {
+			var err error
+			readmeData.Articles, err = getAtomFeedEntries(ctx, baseURL+"/articles.atom")
+			return err
+		})
+
+		//
+		// Fragments
+		//
+		errGroup.Go(func() error {
+			var err error
+			readmeData.Fragments, err = getAtomFeedEntries(ctx, baseURL+"/fragments.atom")
+			return err
+		})
+
+		//
+		// Nanoglyphs
+		//
+		errGroup.Go(func() error {
+			var err error
+			readmeData.Nanoglyphs, err = getAtomFeedEntries(ctx, baseURL+"/nanoglyphs.atom")
+			if err != nil {
+				return err
+			}
+
+			// Massage titles slightly to remove the leading "Nanoglyph"
+			for _, entry := range readmeData.Nanoglyphs {
+				entry.Title = strings.Replace(entry.Title, "Nanoglyph ", "", 1)
+			}
+
+			return nil
+		})
+
+		if err := errGroup.Wait(); err != nil {
 			fail(err)
 		}
-
-		wg.Done()
-	}()
-
-	//
-	// Fragments
-	//
-	wg.Add(1)
-	go func() {
-		var err error
-		readmeData.Fragments, err = getAtomFeedEntries(baseURL + "/fragments.atom")
-		if err != nil {
-			fail(err)
-		}
-
-		wg.Done()
-	}()
-
-	//
-	// Nanoglyphs
-	//
-	wg.Add(1)
-	go func() {
-		var err error
-		readmeData.Nanoglyphs, err = getAtomFeedEntries(baseURL + "/nanoglyphs.atom")
-		if err != nil {
-			fail(err)
-		}
-
-		// Massage titles slightly to remove the leading "Nanoglyph"
-		for _, entry := range readmeData.Nanoglyphs {
-			entry.Title = strings.Replace(entry.Title, "Nanoglyph ", "", 1)
-		}
-
-		wg.Done()
-	}()
-
-	wg.Wait()
+	}
 
 	err := renderTemplateToStdout(&readmeData)
 	if err != nil {
@@ -93,7 +92,7 @@ var backoffSchedule = []time.Duration{
 	10 * time.Second,
 }
 
-var localLocation *time.Location = mustLocation("America/Los_Angeles")
+var localLocation = mustLocation("America/Los_Angeles")
 
 // Feed represents an Atom feed. Used for deserializing XML.
 type Feed struct {
@@ -130,14 +129,14 @@ func formatTimeLocal(t time.Time) string {
 	return t.In(localLocation).Format("January 2, 2006")
 }
 
-func getAtomFeedEntries(url string) ([]*Entry, error) {
-	resp, body, err := getURLDataWithRetries(url)
+func getAtomFeedEntries(ctx context.Context, url string) ([]*Entry, error) {
+	resp, body, err := getURLDataWithRetries(ctx, url) //nolint:bodyclose
 	if err != nil {
 		return nil, err
 	}
 
-	if resp.StatusCode != 200 {
-		return nil, fmt.Errorf("non-200 status code fetching URL '%s': %v",
+	if resp.StatusCode != http.StatusOK {
+		return nil, xerrors.Errorf("non-200 status code fetching URL '%s': %v",
 			url, string(body))
 	}
 
@@ -145,7 +144,7 @@ func getAtomFeedEntries(url string) ([]*Entry, error) {
 
 	err = xml.Unmarshal(body, &feed)
 	if err != nil {
-		return nil, fmt.Errorf("error unmarshaling Atom feed XML: %w", err)
+		return nil, xerrors.Errorf("error unmarshaling Atom feed XML: %w", err)
 	}
 
 	return feed.Entries, nil
@@ -153,27 +152,33 @@ func getAtomFeedEntries(url string) ([]*Entry, error) {
 
 // Gets data at a URL. Connects and reads the entire response string, but
 // notably does not check for problems with bad status codes.
-func getURLData(url string) (*http.Response, []byte, error) {
-	resp, err := http.Get(url)
+func getURLData(ctx context.Context, url string) (*http.Response, []byte, error) {
+	req, err := http.NewRequestWithContext(ctx, http.MethodGet, url, nil)
 	if err != nil {
-		return nil, nil, fmt.Errorf("error fetching URL '%s': %w", url, err)
+		return nil, nil, xerrors.Errorf("error creating request: %w", err)
 	}
+
+	resp, err := http.DefaultClient.Do(req)
+	if err != nil {
+		return nil, nil, xerrors.Errorf("error fetching URL '%s': %w", url, err)
+	}
+	defer resp.Body.Close()
 
 	body, err := ioutil.ReadAll(resp.Body)
 	if err != nil {
-		return nil, nil, fmt.Errorf("error reading response body from URL '%s': %w", url, err)
+		return nil, nil, xerrors.Errorf("error reading response body from URL '%s': %w", url, err)
 	}
 
 	return resp, body, nil
 }
 
-func getURLDataWithRetries(url string) (*http.Response, []byte, error) {
+func getURLDataWithRetries(ctx context.Context, url string) (*http.Response, []byte, error) {
 	var body []byte
 	var err error
 	var resp *http.Response
 
 	for _, backoff := range backoffSchedule {
-		resp, body, err = getURLData(url)
+		resp, body, err = getURLData(ctx, url)
 
 		if err == nil {
 			break
@@ -209,7 +214,7 @@ func renderTemplateToStdout(readmeData *READMEData) error {
 
 	err := readmeTemplate.ExecuteTemplate(os.Stdout, "README.md.tmpl", readmeData)
 	if err != nil {
-		return fmt.Errorf("error rendering README.md template: %w", err)
+		return xerrors.Errorf("error rendering README.md template: %w", err)
 	}
 
 	return nil

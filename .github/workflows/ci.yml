@@ -1,5 +1,8 @@
 name: brandur CI
 
+env:
+  GO_VERSION: 1.19
+
 on:
   pull_request:
   push:
@@ -8,31 +11,22 @@ on:
     - cron: "0 */3 * * *"
 
 jobs:
-  build:
+  generate_and_commit:
+    if: github.ref == 'refs/heads/master'
+    needs:
+      - golangci-lint
+      - tests
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 3
 
     steps:
       - name: Install Go
         uses: actions/setup-go@v3
+        with:
+          go-version: ${{ env.GO_VERSION }}
 
       - name: Checkout
         uses: actions/checkout@v3
-
-      - name: Debug
-        run: |
-          echo "github.ref=${{ github.ref }}"
-          echo "go env GOPATH=$(go env GOPATH)"
-          echo "pwd=$(pwd)"
-          echo "GITHUB_WORKSPACE=${GITHUB_WORKSPACE}"
-          echo "HOME=${HOME}"
-
-      - name: "Go: Test"
-        run: go test ./...
-        working-directory: ./updater
-
-      - name: "Check: Gofmt"
-        run: scripts/check_gofmt.sh
 
       - name: "Generate README.md"
         run: OUT=$(go run main.go) && echo "$OUT" > ../README.md
@@ -46,4 +40,54 @@ jobs:
           git add -u
           git commit -m "Automatic update from GitHub Action" || exit 0
           git push
-        if: github.ref == 'refs/heads/master'
+
+  golangci-lint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+
+    steps:
+      - name: Install Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: ${{ env.GO_VERSION }}
+
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: "Check: golangci-lint"
+        uses: golangci/golangci-lint-action@v3
+        with:
+          working-directory: ./updater
+          version: v1.49
+
+  tests:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Install Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: ${{ env.GO_VERSION }}
+
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Debug
+        run: |
+          echo "github.ref=${{ github.ref }}"
+          echo "go env GOPATH=$(go env GOPATH)"
+          echo "pwd=$(pwd)"
+          echo "GITHUB_WORKSPACE=${GITHUB_WORKSPACE}"
+          echo "HOME=${HOME}"
+
+      - name: "Go: Download modules"
+        run: go mod download
+        working-directory: ./updater
+
+      - name: "Go: Test"
+        run: go test ./...
+        working-directory: ./updater
+
+      - name: "Check: Gofmt"
+        run: scripts/check_gofmt.sh

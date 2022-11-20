@@ -27,6 +27,13 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 ---
 
+As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
+{{range (slice .Sequences 0 3)}}
+* 📷 [{{.Title}}]({{.Link.Href}}) <sub><em>{{FormatTimeLocal .Published}}</em></sub>
+{{- end}}
+
+---
+
 This `README.md` is generated automatically by [a scheduled GitHub Action](https://github.com/brandur/brandur/blob/master/.github/workflows/ci.yml). More information on how that works [here](https://brandur.org/fragments/self-updating-github-readme).
 
 [![Build Status](https://github.com/brandur/brandur/workflows/brandur%20CI/badge.svg)](https://github.com/brandur/brandur/actions)

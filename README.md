@@ -30,6 +30,14 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 ---
 
+As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
+
+* 📷 [032 — The Spheres](https://brandur.org/sequences/032) <sub><em>November 16, 2022</em></sub>
+* 📷 [031 — citizenM](https://brandur.org/sequences/031) <sub><em>November 15, 2022</em></sub>
+* 📷 [030 — Amanita hunting](https://brandur.org/sequences/030) <sub><em>November 14, 2022</em></sub>
+
+---
+
 This `README.md` is generated automatically by [a scheduled GitHub Action](https://github.com/brandur/brandur/blob/master/.github/workflows/ci.yml). More information on how that works [here](https://brandur.org/fragments/self-updating-github-readme).
 
 [![Build Status](https://github.com/brandur/brandur/workflows/brandur%20CI/badge.svg)](https://github.com/brandur/brandur/actions)

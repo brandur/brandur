@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Easy, alternative soft deletion: `deleted_record_insert`](https://brandur.org/fragments/deleted-record-insert) <sub><em>December 28, 2022</em></sub>
 * 🐚 [The unpursuit of clout](https://brandur.org/fragments/unpursuit-of-clout) <sub><em>December 27, 2022</em></sub>
 * 🐚 [The Way of Water](https://brandur.org/fragments/way-of-water) <sub><em>December 26, 2022</em></sub>
-* 🐚 [Habitually testing for goroutine leaks](https://brandur.org/fragments/goroutine-leaks) <sub><em>December 18, 2022</em></sub>
 
 ---
 

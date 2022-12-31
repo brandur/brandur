@@ -219,6 +219,7 @@ func renderTemplateToStdout(readmeData *READMEData) error {
 	readmeTemplate := template.Must(
 		template.New("").Funcs(template.FuncMap{
 			"FormatTimeLocal": formatTimeLocal,
+			"HTMLEscape":      template.HTMLEscapeString,
 		}).ParseFiles("README.md.tmpl"),
 	)
 

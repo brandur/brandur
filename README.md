@@ -16,7 +16,7 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
-* 🐚 [Notes on iOS live photos with ffmpeg and <video>](https://brandur.org/fragments/ios-live-photos-and-ffmpeg) <sub><em>December 31, 2022</em></sub>
+* 🐚 [Notes on iOS live photos with ffmpeg and &lt;video&gt;](https://brandur.org/fragments/ios-live-photos-and-ffmpeg) <sub><em>December 31, 2022</em></sub>
 * 🐚 [Short, friendly base32 slugs from timestamps](https://brandur.org/fragments/base32-slugs) <sub><em>December 29, 2022</em></sub>
 * 🐚 [Easy, alternative soft deletion: `deleted_record_insert`](https://brandur.org/fragments/deleted-record-insert) <sub><em>December 28, 2022</em></sub>
 
@@ -24,7 +24,7 @@ I put other stream of consciousness thoughts into tiny blog posts called [**frag
 
 Once in a while, I write longer form [**articles**](https://brandur.org/articles):
 
-* 📖 [Soft Deletion Probably Isn't Worth It](https://brandur.org/soft-deletion) <sub><em>July 19, 2022</em></sub>
+* 📖 [Soft Deletion Probably Isn&#39;t Worth It](https://brandur.org/soft-deletion) <sub><em>July 19, 2022</em></sub>
 * 📖 [Postgres: Boundless `text` and Back Again](https://brandur.org/text) <sub><em>September 10, 2021</em></sub>
 * 📖 [How We Went All In on sqlc/pgx for Postgres + Go](https://brandur.org/sqlc) <sub><em>September 8, 2021</em></sub>
 

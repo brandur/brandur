@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [035 — Ascending upon a frigid city](https://brandur.org/sequences/035) <sub><em>January 8, 2023</em></sub>
 * 📷 [034 — Columbus Tower](https://brandur.org/sequences/034) <sub><em>November 27, 2022</em></sub>
 * 📷 [033 — The last subway](https://brandur.org/sequences/033) <sub><em>November 20, 2022</em></sub>
-* 📷 [032 — The Spheres](https://brandur.org/sequences/032) <sub><em>November 16, 2022</em></sub>
 
 ---
 

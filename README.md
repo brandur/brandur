@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [037 — The stairs at Oyster Point](https://brandur.org/sequences/037) <sub><em>January 24, 2023</em></sub>
 * 📷 [036 — 510 Townsend St.](https://brandur.org/sequences/036) <sub><em>January 23, 2023</em></sub>
 * 📷 [035 — Ascending upon a frigid city](https://brandur.org/sequences/035) <sub><em>January 8, 2023</em></sub>
-* 📷 [034 — Columbus Tower](https://brandur.org/sequences/034) <sub><em>November 27, 2022</em></sub>
 
 ---
 

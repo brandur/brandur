@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Revisiting my two-year SF predictions](https://brandur.org/fragments/sf-two-years-revisited) <sub><em>January 28, 2023</em></sub>
 * 🐚 [Content authored by ChatGPT front pages](https://brandur.org/fragments/chatgpt-front-pages) <sub><em>January 7, 2023</em></sub>
 * 🐚 [The static rip cord](https://brandur.org/fragments/static-rip-cord) <sub><em>January 1, 2023</em></sub>
-* 🐚 [Notes on iOS live photos with ffmpeg and &lt;video&gt;](https://brandur.org/fragments/ios-live-photos-and-ffmpeg) <sub><em>December 31, 2022</em></sub>
 
 ---
 
@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [039 — The bird site](https://brandur.org/sequences/039) <sub><em>January 28, 2023</em></sub>
 * 📷 [038 — You look nice today](https://brandur.org/sequences/038) <sub><em>January 27, 2023</em></sub>
 * 📷 [037 — The stairs at Oyster Point](https://brandur.org/sequences/037) <sub><em>January 24, 2023</em></sub>
-* 📷 [036 — 510 Townsend St.](https://brandur.org/sequences/036) <sub><em>January 23, 2023</em></sub>
 
 ---
 

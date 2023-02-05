@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [PartialEqual](https://brandur.org/fragments/partial-equal) <sub><em>February 4, 2023</em></sub>
 * 🐚 [Revisiting my two-year SF predictions](https://brandur.org/fragments/sf-two-years-revisited) <sub><em>January 28, 2023</em></sub>
 * 🐚 [Content authored by ChatGPT front pages](https://brandur.org/fragments/chatgpt-front-pages) <sub><em>January 7, 2023</em></sub>
-* 🐚 [The static rip cord](https://brandur.org/fragments/static-rip-cord) <sub><em>January 1, 2023</em></sub>
 
 ---
 

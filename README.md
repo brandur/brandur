@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [041 — Chez GitHub](https://brandur.org/sequences/041) <sub><em>February 9, 2023</em></sub>
 * 📷 [040 — Saturday night](https://brandur.org/sequences/040) <sub><em>February 5, 2023</em></sub>
 * 📷 [039 — The bird site](https://brandur.org/sequences/039) <sub><em>January 28, 2023</em></sub>
-* 📷 [038 — You look nice today](https://brandur.org/sequences/038) <sub><em>January 27, 2023</em></sub>
 
 ---
 

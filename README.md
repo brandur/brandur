@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Findings from six months of running `govulncheck` in CI](https://brandur.org/fragments/govulncheck-ci) <sub><em>February 20, 2023</em></sub>
 * 🐚 [Honest health checks that hit the database](https://brandur.org/fragments/database-health-check) <sub><em>February 19, 2023</em></sub>
 * 🐚 [Migrating weaker password hashes by nesting them in an outer hash](https://brandur.org/fragments/password-hash-nesting) <sub><em>February 13, 2023</em></sub>
-* 🐚 [Adventures in password hashing + migrating to Argon2id](https://brandur.org/fragments/password-hashing) <sub><em>February 12, 2023</em></sub>
 
 ---
 

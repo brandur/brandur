@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Meta layoffs](https://brandur.org/fragments/meta-layoffs) <sub><em>March 19, 2023</em></sub>
 * 🐚 [Policy on util packages](https://brandur.org/fragments/policy-on-util-packages) <sub><em>March 12, 2023</em></sub>
 * 🐚 [`CL.THROTTLE` implemented in DragonflyDB](https://brandur.org/fragments/dragonflydb-cl-throttle) <sub><em>March 12, 2023</em></sub>
-* 🐚 [RFCs and review councils](https://brandur.org/fragments/rfcs-and-review-councils) <sub><em>March 11, 2023</em></sub>
 
 ---
 

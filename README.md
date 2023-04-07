@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Stay mainline](https://brandur.org/fragments/stay-mainline) <sub><em>April 7, 2023</em></sub>
 * 🐚 [Meta layoffs](https://brandur.org/fragments/meta-layoffs) <sub><em>March 19, 2023</em></sub>
 * 🐚 [Policy on util packages](https://brandur.org/fragments/policy-on-util-packages) <sub><em>March 12, 2023</em></sub>
-* 🐚 [`CL.THROTTLE` implemented in DragonflyDB](https://brandur.org/fragments/dragonflydb-cl-throttle) <sub><em>March 12, 2023</em></sub>
 
 ---
 
@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [044 — Indomitable](https://brandur.org/sequences/044) <sub><em>April 7, 2023</em></sub>
 * 📷 [043 — Outpost](https://brandur.org/sequences/043) <sub><em>March 5, 2023</em></sub>
 * 📷 [042 — A wall alive](https://brandur.org/sequences/042) <sub><em>February 11, 2023</em></sub>
-* 📷 [041 — Chez GitHub](https://brandur.org/sequences/041) <sub><em>February 9, 2023</em></sub>
 
 ---
 

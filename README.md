@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [PG advisory locks in Go with built-in hashes](https://brandur.org/fragments/pg-advisory-locks-with-go-hash) <sub><em>April 22, 2023</em></sub>
 * 🐚 [Lean = fast](https://brandur.org/fragments/lean-fast) <sub><em>April 9, 2023</em></sub>
 * 🐚 [Stay mainline](https://brandur.org/fragments/stay-mainline) <sub><em>April 7, 2023</em></sub>
-* 🐚 [Meta layoffs](https://brandur.org/fragments/meta-layoffs) <sub><em>March 19, 2023</em></sub>
 
 ---
 

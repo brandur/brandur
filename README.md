@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [048 — Under construction](https://brandur.org/sequences/048) <sub><em>April 30, 2023</em></sub>
 * 📷 [047 — Venue](https://brandur.org/sequences/047) <sub><em>April 25, 2023</em></sub>
 * 📷 [046 — Whale shark(s)](https://brandur.org/sequences/046) <sub><em>April 23, 2023</em></sub>
-* 📷 [045 — In creeks and canyons](https://brandur.org/sequences/045) <sub><em>April 17, 2023</em></sub>
 
 ---
 

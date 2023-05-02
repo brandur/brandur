@@ -8,9 +8,9 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 
+* ⓝ [036 — Atlanta, Job Queues, Batch-wise Operations](https://brandur.org/nanoglyphs/036-queues) <sub><em>May 2, 2023</em></sub>
 * ⓝ [035 — Go Generics, Eventual Newslettering](https://brandur.org/nanoglyphs/035-generics) <sub><em>April 17, 2023</em></sub>
 * ⓝ [034 — Cloud SQLite](https://brandur.org/nanoglyphs/034-cloud-sqlite) <sub><em>May 29, 2022</em></sub>
-* ⓝ [033 — Heroku: Core Impact](https://brandur.org/nanoglyphs/033-heroku) <sub><em>May 15, 2022</em></sub>
 
 ---
 
@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [049 — Dragons](https://brandur.org/sequences/049) <sub><em>May 2, 2023</em></sub>
 * 📷 [048 — Under construction](https://brandur.org/sequences/048) <sub><em>April 30, 2023</em></sub>
 * 📷 [047 — Venue](https://brandur.org/sequences/047) <sub><em>April 25, 2023</em></sub>
-* 📷 [046 — Whale shark(s)](https://brandur.org/sequences/046) <sub><em>April 23, 2023</em></sub>
 
 ---
 

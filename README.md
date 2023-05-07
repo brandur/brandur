@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [051 — Musée de l&#39;Armée](https://brandur.org/sequences/051) <sub><em>May 7, 2023</em></sub>
 * 📷 [050 — Rue Claude Monet](https://brandur.org/sequences/050) <sub><em>May 4, 2023</em></sub>
 * 📷 [049 — Dragons](https://brandur.org/sequences/049) <sub><em>May 2, 2023</em></sub>
-* 📷 [048 — Under construction](https://brandur.org/sequences/048) <sub><em>April 30, 2023</em></sub>
 
 ---
 

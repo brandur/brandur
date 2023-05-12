@@ -8,9 +8,9 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 
+* ⓝ [037 — Fast as a Service](https://brandur.org/nanoglyphs/037-fast) <sub><em>May 12, 2023</em></sub>
 * ⓝ [036 — Atlanta, Job Queues, Batch-wise Operations](https://brandur.org/nanoglyphs/036-queues) <sub><em>May 2, 2023</em></sub>
 * ⓝ [035 — Go Generics, Eventual Newslettering](https://brandur.org/nanoglyphs/035-generics) <sub><em>April 17, 2023</em></sub>
-* ⓝ [034 — Cloud SQLite](https://brandur.org/nanoglyphs/034-cloud-sqlite) <sub><em>May 29, 2022</em></sub>
 
 ---
 

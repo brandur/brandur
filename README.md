@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [PGX + sqlc v4 to v5 upgrade notes](https://brandur.org/fragments/pgx-v5-sqlc-upgrade) <sub><em>May 20, 2023</em></sub>
 * 🐚 [PG advisory locks in Go with built-in hashes](https://brandur.org/fragments/pg-advisory-locks-with-go-hash) <sub><em>April 22, 2023</em></sub>
 * 🐚 [Lean = fast](https://brandur.org/fragments/lean-fast) <sub><em>April 9, 2023</em></sub>
-* 🐚 [Stay mainline](https://brandur.org/fragments/stay-mainline) <sub><em>April 7, 2023</em></sub>
 
 ---
 
@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [053 — 35018](https://brandur.org/sequences/053) <sub><em>May 20, 2023</em></sub>
 * 📷 [052 — La Grande Arche](https://brandur.org/sequences/052) <sub><em>May 9, 2023</em></sub>
 * 📷 [051 — Musée de l&#39;Armée](https://brandur.org/sequences/051) <sub><em>May 7, 2023</em></sub>
-* 📷 [050 — Rue Claude Monet](https://brandur.org/sequences/050) <sub><em>May 4, 2023</em></sub>
 
 ---
 

@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [A `TestTx` helper in Go using `t.Cleanup`](https://brandur.org/fragments/go-test-tx-using-t-cleanup) <sub><em>July 5, 2023</em></sub>
 * 🐚 [100% test coverage](https://brandur.org/fragments/100-percent-coverage) <sub><em>July 2, 2023</em></sub>
 * 🐚 [PGX + sqlc v4 to v5 upgrade notes](https://brandur.org/fragments/pgx-v5-sqlc-upgrade) <sub><em>May 20, 2023</em></sub>
-* 🐚 [PG advisory locks in Go with built-in hashes](https://brandur.org/fragments/pg-advisory-locks-with-go-hash) <sub><em>April 22, 2023</em></sub>
 
 ---
 

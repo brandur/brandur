@@ -1,8 +1,5 @@
 name: brandur CI
 
-env:
-  GO_VERSION: 1.19
-
 on:
   pull_request:
   push:
@@ -20,13 +17,16 @@ jobs:
     timeout-minutes: 3
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
       - name: Install Go
         uses: actions/setup-go@v3
         with:
-          go-version: ${{ env.GO_VERSION }}
-
-      - name: Checkout
-        uses: actions/checkout@v3
+          cache: true
+          cache-dependency-path: "updater/go.sum"
+          check-latest: true
+          go-version-file: "updater/go.mod"
 
       - name: "Generate README.md"
         run: OUT=$(go run main.go) && echo "$OUT" > ../README.md
@@ -46,32 +46,38 @@ jobs:
     timeout-minutes: 3
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
       - name: Install Go
         uses: actions/setup-go@v3
         with:
-          go-version: ${{ env.GO_VERSION }}
-
-      - name: Checkout
-        uses: actions/checkout@v3
+          cache: true
+          cache-dependency-path: "updater/go.sum"
+          check-latest: true
+          go-version-file: "updater/go.mod"
 
       - name: "Check: golangci-lint"
         uses: golangci/golangci-lint-action@v3
         with:
           working-directory: ./updater
-          version: v1.49
+          version: v1.54
 
   tests:
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
       - name: Install Go
         uses: actions/setup-go@v3
         with:
-          go-version: ${{ env.GO_VERSION }}
-
-      - name: Checkout
-        uses: actions/checkout@v3
+          cache: true
+          cache-dependency-path: "updater/go.sum"
+          check-latest: true
+          go-version-file: "updater/go.mod"
 
       - name: Debug
         run: |

@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [An email redaction function for Postgres](https://brandur.org/fragments/email-redacted-sql-function) <sub><em>August 16, 2023</em></sub>
 * 🐚 [Rate limiting, DDOS, and hyperbole](https://brandur.org/fragments/rate-limiting-ddos-hyperbole) <sub><em>July 6, 2023</em></sub>
 * 🐚 [A `TestTx` helper in Go using `t.Cleanup`](https://brandur.org/fragments/go-test-tx-using-t-cleanup) <sub><em>July 5, 2023</em></sub>
-* 🐚 [100% test coverage](https://brandur.org/fragments/100-percent-coverage) <sub><em>July 2, 2023</em></sub>
 
 ---
 

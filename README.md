@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [056 — Floor 03](https://brandur.org/sequences/056) <sub><em>August 21, 2023</em></sub>
 * 📷 [055 — Lighter than air](https://brandur.org/sequences/055) <sub><em>June 2, 2023</em></sub>
 * 📷 [054 — London](https://brandur.org/sequences/054) <sub><em>June 2, 2023</em></sub>
-* 📷 [053 — 35018](https://brandur.org/sequences/053) <sub><em>May 20, 2023</em></sub>
 
 ---
 

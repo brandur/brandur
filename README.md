@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Being a good web denizen: Don&#39;t strip EXIF metadata from photos](https://brandur.org/fragments/stop-stripping-exif) <sub><em>October 4, 2023</em></sub>
+* 🐚 [A Postgres-friendly time comparison assertion for Go](https://brandur.org/fragments/go-equal-time) <sub><em>October 4, 2023</em></sub>
 * 🐚 [Getting Postgres logs in a GitHub Action](https://brandur.org/fragments/postgres-logs-in-github-actions) <sub><em>September 26, 2023</em></sub>
-* 🐚 [Why to prefer `t.Cleanup` to `defer` in tests with subtests using `t.Parallel`](https://brandur.org/fragments/go-prefer-t-cleanup-with-parallel-subtests) <sub><em>September 5, 2023</em></sub>
-* 🐚 [An email redaction function for Postgres](https://brandur.org/fragments/email-redacted-sql-function) <sub><em>August 16, 2023</em></sub>
 
 ---
 

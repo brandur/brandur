@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
-* 📷 [057 — May Day](https://brandur.org/sequences/057) <sub><em>September 6, 2023</em></sub>
-* 📷 [056 — Floor 03](https://brandur.org/sequences/056) <sub><em>August 21, 2023</em></sub>
-* 📷 [055 — Lighter than air](https://brandur.org/sequences/055) <sub><em>June 2, 2023</em></sub>
+* 📷 [060 — Mist over the valley](https://brandur.org/sequences/060) <sub><em>October 15, 2023</em></sub>
+* 📷 [059 — Mist over the valley](https://brandur.org/sequences/059) <sub><em>October 15, 2023</em></sub>
+* 📷 [058 — The Hermit](https://brandur.org/sequences/058) <sub><em>October 15, 2023</em></sub>
 
 ---
 

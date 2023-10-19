@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [063 — Paris chic](https://brandur.org/sequences/063) <sub><em>October 18, 2023</em></sub>
 * 📷 [062 — Camp Reynolds](https://brandur.org/sequences/062) <sub><em>October 17, 2023</em></sub>
 * 📷 [061 — Pagan](https://brandur.org/sequences/061) <sub><em>October 16, 2023</em></sub>
-* 📷 [060 — The inaugural Rails World](https://brandur.org/sequences/060) <sub><em>October 15, 2023</em></sub>
 
 ---
 

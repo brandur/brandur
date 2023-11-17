@@ -8,7 +8,7 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 
-* ⓝ [041 — 15, 16](https://brandur.org/nanoglyphs/041-15-16) <sub><em>November 16, 2023</em></sub>
+* ⓝ [041 — 15, 16](https://brandur.org/nanoglyphs/041-15-16) <sub><em>November 17, 2023</em></sub>
 * ⓝ [040 — Rails World, 7.1, Amsterdam](https://brandur.org/nanoglyphs/040-rails-world) <sub><em>October 14, 2023</em></sub>
 * ⓝ [039 — Trails, Charleston, `t.Parallel()`](https://brandur.org/nanoglyphs/039-trails) <sub><em>October 7, 2023</em></sub>
 
@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [066 — One Montgomery](https://brandur.org/sequences/066) <sub><em>November 17, 2023</em></sub>
 * 📷 [065 — Protesting the CCP](https://brandur.org/sequences/065) <sub><em>November 16, 2023</em></sub>
 * 📷 [064 — Paris cool](https://brandur.org/sequences/064) <sub><em>November 15, 2023</em></sub>
-* 📷 [063 — Paris chic](https://brandur.org/sequences/063) <sub><em>October 18, 2023</em></sub>
 
 ---
 

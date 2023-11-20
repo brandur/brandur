@@ -24,17 +24,17 @@ I put other stream of consciousness thoughts into tiny blog posts called [**frag
 
 Once in a while, I write longer form [**articles**](https://brandur.org/articles):
 
+* 📖 [River: a Fast, Robust Job Queue for Go + Postgres](https://brandur.org/river) <sub><em>November 20, 2023</em></sub>
 * 📖 [On Using Go&#39;s `t.Parallel()`](https://brandur.org/t-parallel) <sub><em>August 26, 2023</em></sub>
 * 📖 [Soft Deletion Probably Isn&#39;t Worth It](https://brandur.org/soft-deletion) <sub><em>July 19, 2022</em></sub>
-* 📖 [Postgres: Boundless `text` and Back Again](https://brandur.org/text) <sub><em>September 10, 2021</em></sub>
 
 ---
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [067 — Kanazawa shrine](https://brandur.org/sequences/067) <sub><em>November 20, 2023</em></sub>
 * 📷 [066 — One Montgomery](https://brandur.org/sequences/066) <sub><em>November 17, 2023</em></sub>
 * 📷 [065 — Protesting the CCP](https://brandur.org/sequences/065) <sub><em>November 16, 2023</em></sub>
-* 📷 [064 — Paris cool](https://brandur.org/sequences/064) <sub><em>November 15, 2023</em></sub>
 
 ---
 

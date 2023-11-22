@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [069 — Low visibility](https://brandur.org/sequences/069) <sub><em>November 21, 2023</em></sub>
 * 📷 [068 — Orbs](https://brandur.org/sequences/068) <sub><em>November 20, 2023</em></sub>
 * 📷 [067 — Kanazawa shrine](https://brandur.org/sequences/067) <sub><em>November 20, 2023</em></sub>
-* 📷 [066 — One Montgomery](https://brandur.org/sequences/066) <sub><em>November 17, 2023</em></sub>
 
 ---
 

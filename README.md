@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [071 — Still water](https://brandur.org/sequences/071) <sub><em>January 9, 2024</em></sub>
 * 📷 [070 — Bulbs at 101](https://brandur.org/sequences/070) <sub><em>December 30, 2023</em></sub>
 * 📷 [069 — Low visibility](https://brandur.org/sequences/069) <sub><em>November 21, 2023</em></sub>
-* 📷 [068 — Orbs](https://brandur.org/sequences/068) <sub><em>November 20, 2023</em></sub>
 
 ---
 

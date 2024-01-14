@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Discovering histograms, kicking off metric rollups](https://brandur.org/fragments/discovering-histograms) <sub><em>January 13, 2024</em></sub>
 * 🐚 [The peanut gallery](https://brandur.org/fragments/the-peanut-gallery) <sub><em>October 14, 2023</em></sub>
 * 🐚 [Optimizing row storage in 8-byte chunks](https://brandur.org/fragments/postgres-row-optimization) <sub><em>October 12, 2023</em></sub>
-* 🐚 [Being a good web denizen: Don&#39;t strip EXIF metadata from photos](https://brandur.org/fragments/stop-stripping-exif) <sub><em>October 4, 2023</em></sub>
 
 ---
 
@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [072 — Prairie ridgeline](https://brandur.org/sequences/072) <sub><em>January 13, 2024</em></sub>
 * 📷 [071 — Still water](https://brandur.org/sequences/071) <sub><em>January 9, 2024</em></sub>
 * 📷 [070 — Bulbs at 101](https://brandur.org/sequences/070) <sub><em>December 30, 2023</em></sub>
-* 📷 [069 — Low visibility](https://brandur.org/sequences/069) <sub><em>November 21, 2023</em></sub>
 
 ---
 

@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Prepared statements for psql operations](https://brandur.org/fragments/prepared-statements-psql) <sub><em>February 22, 2024</em></sub>
 * 🐚 [Thoughts on ONCE + Campfire](https://brandur.org/fragments/once-basecamp) <sub><em>January 19, 2024</em></sub>
 * 🐚 [Hard media](https://brandur.org/fragments/hard-media) <sub><em>January 15, 2024</em></sub>
-* 🐚 [Discovering histograms, kicking off metric rollups](https://brandur.org/fragments/discovering-histograms) <sub><em>January 13, 2024</em></sub>
 
 ---
 

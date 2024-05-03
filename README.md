@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Ruby typing 2024: RBS, Steep, RBS Collections, subjective feelings](https://brandur.org/fragments/ruby-typing-2024) <sub><em>May 2, 2024</em></sub>
 * 🐚 [Modals and mysterious macOS failures](https://brandur.org/fragments/modals-mysterious-macos-cron-failures) <sub><em>March 5, 2024</em></sub>
 * 🐚 [Stubbing degenerate network conditions in Go with `DialFunc` and `net.Conn`](https://brandur.org/fragments/go-net-conn-stub) <sub><em>March 2, 2024</em></sub>
-* 🐚 [Prepared statements for psql operations](https://brandur.org/fragments/prepared-statements-psql) <sub><em>February 22, 2024</em></sub>
 
 ---
 

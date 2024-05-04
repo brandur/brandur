@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Histograms worked](https://brandur.org/fragments/histograms-worked) <sub><em>May 3, 2024</em></sub>
 * 🐚 [Ruby typing 2024: RBS, Steep, RBS Collections, subjective feelings](https://brandur.org/fragments/ruby-typing-2024) <sub><em>May 2, 2024</em></sub>
 * 🐚 [Modals and mysterious macOS failures](https://brandur.org/fragments/modals-mysterious-macos-cron-failures) <sub><em>March 5, 2024</em></sub>
-* 🐚 [Stubbing degenerate network conditions in Go with `DialFunc` and `net.Conn`](https://brandur.org/fragments/go-net-conn-stub) <sub><em>March 2, 2024</em></sub>
 
 ---
 
@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [073 — Glass and steel](https://brandur.org/sequences/073) <sub><em>May 3, 2024</em></sub>
 * 📷 [072 — Prairie ridgeline](https://brandur.org/sequences/072) <sub><em>January 13, 2024</em></sub>
 * 📷 [071 — Still water](https://brandur.org/sequences/071) <sub><em>January 9, 2024</em></sub>
-* 📷 [070 — Bulbs at 101](https://brandur.org/sequences/070) <sub><em>December 30, 2023</em></sub>
 
 ---
 

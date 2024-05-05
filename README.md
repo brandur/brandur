@@ -24,17 +24,17 @@ I put other stream of consciousness thoughts into tiny blog posts called [**frag
 
 Once in a while, I write longer form [**articles**](https://brandur.org/articles):
 
+* 📖 [Web APIs: Enriched DX By Disallowing Unknown Fields](https://brandur.org/disallow-unknown-fields) <sub><em>May 4, 2024</em></sub>
 * 📖 [River: a Fast, Robust Job Queue for Go + Postgres](https://brandur.org/river) <sub><em>November 20, 2023</em></sub>
 * 📖 [On Using Go&#39;s `t.Parallel()`](https://brandur.org/t-parallel) <sub><em>August 26, 2023</em></sub>
-* 📖 [Soft Deletion Probably Isn&#39;t Worth It](https://brandur.org/soft-deletion) <sub><em>July 19, 2022</em></sub>
 
 ---
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [075 — Mate](https://brandur.org/sequences/075) <sub><em>May 5, 2024</em></sub>
 * 📷 [074 — Light roast](https://brandur.org/sequences/074) <sub><em>May 4, 2024</em></sub>
 * 📷 [073 — Glass and steel](https://brandur.org/sequences/073) <sub><em>May 3, 2024</em></sub>
-* 📷 [072 — Prairie ridgeline](https://brandur.org/sequences/072) <sub><em>January 13, 2024</em></sub>
 
 ---
 

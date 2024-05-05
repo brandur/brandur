@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [076 — Five Elephants](https://brandur.org/sequences/076) <sub><em>May 5, 2024</em></sub>
 * 📷 [075 — Mate](https://brandur.org/sequences/075) <sub><em>May 5, 2024</em></sub>
 * 📷 [074 — Light roast](https://brandur.org/sequences/074) <sub><em>May 4, 2024</em></sub>
-* 📷 [073 — Glass and steel](https://brandur.org/sequences/073) <sub><em>May 3, 2024</em></sub>
 
 ---
 

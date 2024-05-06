@@ -24,9 +24,9 @@ I put other stream of consciousness thoughts into tiny blog posts called [**frag
 
 Once in a while, I write longer form [**articles**](https://brandur.org/articles):
 
+* 📖 [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier) <sub><em>May 5, 2024</em></sub>
 * 📖 [Web APIs: Enriched DX By Disallowing Unknown Fields](https://brandur.org/disallow-unknown-fields) <sub><em>May 4, 2024</em></sub>
 * 📖 [River: a Fast, Robust Job Queue for Go + Postgres](https://brandur.org/river) <sub><em>November 20, 2023</em></sub>
-* 📖 [On Using Go&#39;s `t.Parallel()`](https://brandur.org/t-parallel) <sub><em>August 26, 2023</em></sub>
 
 ---
 

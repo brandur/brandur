@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Shiki](https://brandur.org/fragments/shiki) <sub><em>May 9, 2024</em></sub>
 * 🐚 [Plumbing fully typed feature flags from API to UI via OpenAPI](https://brandur.org/fragments/typed-feature-flags) <sub><em>May 8, 2024</em></sub>
 * 🐚 [Digital detox](https://brandur.org/fragments/digital-detox) <sub><em>May 6, 2024</em></sub>
-* 🐚 [Histograms worked](https://brandur.org/fragments/histograms-worked) <sub><em>May 3, 2024</em></sub>
 
 ---
 

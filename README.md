@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Heroku on two standard dynos?](https://brandur.org/fragments/heroku-two-dynos) <sub><em>May 11, 2024</em></sub>
 * 🐚 [Activating cached feature flags instantly with notify triggers](https://brandur.org/fragments/instant-feature-flags) <sub><em>May 9, 2024</em></sub>
 * 🐚 [Shiki](https://brandur.org/fragments/shiki) <sub><em>May 9, 2024</em></sub>
-* 🐚 [Plumbing fully typed feature flags from API to UI via OpenAPI](https://brandur.org/fragments/typed-feature-flags) <sub><em>May 8, 2024</em></sub>
 
 ---
 

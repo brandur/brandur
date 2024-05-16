@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Use of Go&#39;s `cmp.Or` for multi-field sorting](https://brandur.org/fragments/cmp-or-multi-field) <sub><em>May 15, 2024</em></sub>
 * 🐚 [ValOrDefault](https://brandur.org/fragments/val-or-default) <sub><em>May 15, 2024</em></sub>
 * 🐚 [Heroku on two standard dynos?](https://brandur.org/fragments/heroku-two-dynos) <sub><em>May 11, 2024</em></sub>
-* 🐚 [Activating cached feature flags instantly with notify triggers](https://brandur.org/fragments/instant-feature-flags) <sub><em>May 9, 2024</em></sub>
 
 ---
 

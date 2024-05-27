@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [081 — Zschochersche](https://brandur.org/sequences/081) <sub><em>May 27, 2024</em></sub>
 * 📷 [080 — Renewal](https://brandur.org/sequences/080) <sub><em>May 23, 2024</em></sub>
 * 📷 [079 — Spring in Leipzig](https://brandur.org/sequences/079) <sub><em>May 19, 2024</em></sub>
-* 📷 [078 — Lights over Friedrichshain](https://brandur.org/sequences/078) <sub><em>May 9, 2024</em></sub>
 
 ---
 

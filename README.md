@@ -24,17 +24,17 @@ I put other stream of consciousness thoughts into tiny blog posts called [**frag
 
 Once in a while, I write longer form [**articles**](https://brandur.org/articles):
 
+* 📖 [Eradicating N+1s: The Two-phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render) <sub><em>May 28, 2024</em></sub>
 * 📖 [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier) <sub><em>May 5, 2024</em></sub>
 * 📖 [Web APIs: Enriched DX By Disallowing Unknown Fields](https://brandur.org/disallow-unknown-fields) <sub><em>May 4, 2024</em></sub>
-* 📖 [River: a Fast, Robust Job Queue for Go + Postgres](https://brandur.org/river) <sub><em>November 20, 2023</em></sub>
 
 ---
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [083 — Towers](https://brandur.org/sequences/083) <sub><em>May 28, 2024</em></sub>
 * 📷 [082 — North of Warschauer](https://brandur.org/sequences/082) <sub><em>May 27, 2024</em></sub>
 * 📷 [081 — Zschochersche](https://brandur.org/sequences/081) <sub><em>May 27, 2024</em></sub>
-* 📷 [080 — Renewal](https://brandur.org/sequences/080) <sub><em>May 23, 2024</em></sub>
 
 ---
 

@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [084 — Spherical abberation](https://brandur.org/sequences/084) <sub><em>June 1, 2024</em></sub>
 * 📷 [083 — Towers](https://brandur.org/sequences/083) <sub><em>May 28, 2024</em></sub>
 * 📷 [082 — North of Warschauer](https://brandur.org/sequences/082) <sub><em>May 27, 2024</em></sub>
-* 📷 [081 — Zschochersche](https://brandur.org/sequences/081) <sub><em>May 27, 2024</em></sub>
 
 ---
 

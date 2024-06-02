@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Go: Don&#39;t name packages common nouns](https://brandur.org/fragments/go-no-common-nouns) <sub><em>June 2, 2024</em></sub>
 * 🐚 [The romance of Europe](https://brandur.org/fragments/romance-of-europe) <sub><em>May 27, 2024</em></sub>
 * 🐚 [ICQ](https://brandur.org/fragments/icq) <sub><em>May 24, 2024</em></sub>
-* 🐚 [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes) <sub><em>May 23, 2024</em></sub>
 
 ---
 

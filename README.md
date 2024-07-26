@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Elden Ring](https://brandur.org/fragments/elden-ring) <sub><em>July 25, 2024</em></sub>
 * 🐚 [Sqlc: 2024 check in](https://brandur.org/fragments/sqlc-2024) <sub><em>June 16, 2024</em></sub>
 * 🐚 [Go: Don&#39;t name packages common nouns](https://brandur.org/fragments/go-no-common-nouns) <sub><em>June 2, 2024</em></sub>
-* 🐚 [The romance of Europe](https://brandur.org/fragments/romance-of-europe) <sub><em>May 27, 2024</em></sub>
 
 ---
 

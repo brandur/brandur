@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [TIL: Variables in custom VSCode snippets](https://brandur.org/fragments/vscode-snippets) <sub><em>October 4, 2024</em></sub>
 * 🐚 [A few secure, random bytes without `pgcrypto`](https://brandur.org/fragments/secure-bytes-without-pgcrypto) <sub><em>September 24, 2024</em></sub>
 * 🐚 [Direnv&#39;s `source_env`, and how to manage project configuration](https://brandur.org/fragments/direnv-source-env) <sub><em>September 20, 2024</em></sub>
-* 🐚 [Your Go version CI matrix might be wrong](https://brandur.org/fragments/go-version-matrix) <sub><em>August 11, 2024</em></sub>
 
 ---
 

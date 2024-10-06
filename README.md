@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [088 — Royal lion hunt](https://brandur.org/sequences/088) <sub><em>October 6, 2024</em></sub>
 * 📷 [087 — Transamerica](https://brandur.org/sequences/087) <sub><em>October 5, 2024</em></sub>
 * 📷 [086 — County Highway](https://brandur.org/sequences/086) <sub><em>September 22, 2024</em></sub>
-* 📷 [085 — BER](https://brandur.org/sequences/085) <sub><em>June 1, 2024</em></sub>
 
 ---
 

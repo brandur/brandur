@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Rails World 2024](https://brandur.org/fragments/rails-world-2024) <sub><em>October 6, 2024</em></sub>
 * 🐚 [TIL: Variables in custom VSCode snippets](https://brandur.org/fragments/vscode-snippets) <sub><em>October 4, 2024</em></sub>
 * 🐚 [A few secure, random bytes without `pgcrypto`](https://brandur.org/fragments/secure-bytes-without-pgcrypto) <sub><em>September 24, 2024</em></sub>
-* 🐚 [Direnv&#39;s `source_env`, and how to manage project configuration](https://brandur.org/fragments/direnv-source-env) <sub><em>September 20, 2024</em></sub>
 
 ---
 
@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [089 — Rails World 2024](https://brandur.org/sequences/089) <sub><em>October 6, 2024</em></sub>
 * 📷 [088 — Royal lion hunt](https://brandur.org/sequences/088) <sub><em>October 6, 2024</em></sub>
 * 📷 [087 — Transamerica](https://brandur.org/sequences/087) <sub><em>October 5, 2024</em></sub>
-* 📷 [086 — County Highway](https://brandur.org/sequences/086) <sub><em>September 22, 2024</em></sub>
 
 ---
 

@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [091 — Fair&#39;s Fair](https://brandur.org/sequences/091) <sub><em>December 19, 2024</em></sub>
 * 📷 [090 — Overhead](https://brandur.org/sequences/090) <sub><em>October 19, 2024</em></sub>
 * 📷 [089 — Rails World 2024](https://brandur.org/sequences/089) <sub><em>October 6, 2024</em></sub>
-* 📷 [088 — Royal lion hunt](https://brandur.org/sequences/088) <sub><em>October 6, 2024</em></sub>
 
 ---
 

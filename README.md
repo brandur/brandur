@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Stripe V2](https://brandur.org/fragments/stripe-v2) <sub><em>December 28, 2024</em></sub>
 * 🐚 [Go&#39;s maximum time.Duration](https://brandur.org/fragments/go-max-time-duration) <sub><em>December 21, 2024</em></sub>
 * 🐚 [ERROR: invalid byte sequence for encoding UTF8: 0x00 (and what to do about it)](https://brandur.org/fragments/invalid-byte-sequence) <sub><em>December 19, 2024</em></sub>
-* 🐚 [The parallel test bundle, a convention for Go testing](https://brandur.org/fragments/parallel-test-bundle) <sub><em>October 27, 2024</em></sub>
 
 ---
 

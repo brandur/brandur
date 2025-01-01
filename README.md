@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Postgres UUIDv7 + per-backend monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity) <sub><em>December 31, 2024</em></sub>
 * 🐚 [Stripe V2](https://brandur.org/fragments/stripe-v2) <sub><em>December 28, 2024</em></sub>
 * 🐚 [Go&#39;s maximum time.Duration](https://brandur.org/fragments/go-max-time-duration) <sub><em>December 21, 2024</em></sub>
-* 🐚 [ERROR: invalid byte sequence for encoding UTF8: 0x00 (and what to do about it)](https://brandur.org/fragments/invalid-byte-sequence) <sub><em>December 19, 2024</em></sub>
 
 ---
 

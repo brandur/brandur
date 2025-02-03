@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Profiling production for memory overruns + canonical log stats](https://brandur.org/fragments/profiling-production) <sub><em>February 2, 2025</em></sub>
 * 🐚 [Go&#39;s bytes.Buffer vs. strings.Builder](https://brandur.org/fragments/bytes-buffer-vs-strings-builder) <sub><em>January 2, 2025</em></sub>
 * 🐚 [Postgres UUIDv7 + per-backend monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity) <sub><em>December 31, 2024</em></sub>
-* 🐚 [Stripe V2](https://brandur.org/fragments/stripe-v2) <sub><em>December 28, 2024</em></sub>
 
 ---
 

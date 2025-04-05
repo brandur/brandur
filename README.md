@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [094 — Sky blue](https://brandur.org/sequences/094) <sub><em>April 4, 2025</em></sub>
 * 📷 [093 — Eighty-Eight](https://brandur.org/sequences/093) <sub><em>December 29, 2024</em></sub>
 * 📷 [092 — Tori Bar](https://brandur.org/sequences/092) <sub><em>December 20, 2024</em></sub>
-* 📷 [091 — Fair&#39;s Fair](https://brandur.org/sequences/091) <sub><em>December 19, 2024</em></sub>
 
 ---
 

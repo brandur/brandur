@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Be careful with Dropbox](https://brandur.org/fragments/careful-with-dropbox) <sub><em>May 25, 2025</em></sub>
 * 🐚 [Optimizing JPEGs with MozJPEG for local archival](https://brandur.org/fragments/optimizing-jpegs-for-archival) <sub><em>March 29, 2025</em></sub>
 * 🐚 [The right way to do data fixtures in Go](https://brandur.org/fragments/go-data-fixtures) <sub><em>March 20, 2025</em></sub>
-* 🐚 [Profiling production for memory overruns + canonical log stats](https://brandur.org/fragments/profiling-production) <sub><em>February 2, 2025</em></sub>
 
 ---
 

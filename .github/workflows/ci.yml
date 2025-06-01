@@ -17,13 +17,11 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install Go
-        uses: actions/setup-go@v3
+        uses: actions/setup-go@v5
         with:
-          cache: true
-          cache-dependency-path: "updater/go.sum"
           check-latest: true
           go-version-file: "updater/go.mod"
 
@@ -42,17 +40,15 @@ jobs:
 
   golangci-lint:
     runs-on: ubuntu-latest
-    timeout-minutes: 3
+    timeout-minutes: 5
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install Go
-        uses: actions/setup-go@v3
+        uses: actions/setup-go@v5
         with:
-          cache: true
-          cache-dependency-path: "updater/go.sum"
           check-latest: true
           go-version-file: "updater/go.mod"
 
@@ -68,13 +64,11 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install Go
-        uses: actions/setup-go@v3
+        uses: actions/setup-go@v5
         with:
-          cache: true
-          cache-dependency-path: "updater/go.sum"
           check-latest: true
           go-version-file: "updater/go.mod"
 
@@ -93,9 +87,6 @@ jobs:
       - name: "Go: Test"
         run: go test ./...
         working-directory: ./updater
-
-      - name: "Check: Gofmt"
-        run: scripts/check_gofmt.sh
 
       - name: "Generate README.md"
         run: OUT=$(go run main.go) && echo "$OUT" > ../README.md

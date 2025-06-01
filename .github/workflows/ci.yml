@@ -53,10 +53,10 @@ jobs:
           go-version-file: "updater/go.mod"
 
       - name: "Check: golangci-lint"
-        uses: golangci/golangci-lint-action@v3
+        uses: golangci/golangci-lint-action@v7
         with:
           working-directory: ./updater
-          version: v1.54
+          version: v2.0.0
 
   tests:
     runs-on: ubuntu-latest

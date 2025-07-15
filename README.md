@@ -8,17 +8,17 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 
+* ⓝ [042 — Service Resumed](https://brandur.org/nanoglyphs/042-resumed) <sub><em>July 15, 2025</em></sub>
 * ⓝ [041 — 15, 16](https://brandur.org/nanoglyphs/041-15-16) <sub><em>November 17, 2023</em></sub>
 * ⓝ [040 — Rails World, 7.1, Amsterdam](https://brandur.org/nanoglyphs/040-rails-world) <sub><em>October 14, 2023</em></sub>
-* ⓝ [039 — Trails, Charleston, `t.Parallel()`](https://brandur.org/nanoglyphs/039-trails) <sub><em>October 7, 2023</em></sub>
 
 ---
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [The special hell of Bolt, Europe&#39;s Uber clone](https://brandur.org/fragments/special-hell-of-bolt-app) <sub><em>July 15, 2025</em></sub>
 * 🐚 [Occasionally injected clocks in Postgres](https://brandur.org/fragments/postgres-clocks) <sub><em>June 29, 2025</em></sub>
 * 🐚 [Testing the graceful handling of request cancellation in Go, 499s](https://brandur.org/fragments/testing-request-cancellation) <sub><em>June 19, 2025</em></sub>
-* 🐚 [Be careful with Dropbox](https://brandur.org/fragments/careful-with-dropbox) <sub><em>May 25, 2025</em></sub>
 
 ---
 

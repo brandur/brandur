@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [096 — STRAAT](https://brandur.org/sequences/096) <sub><em>September 22, 2025</em></sub>
 * 📷 [095 — The Globe](https://brandur.org/sequences/095) <sub><em>September 21, 2025</em></sub>
 * 📷 [094 — Sky blue](https://brandur.org/sequences/094) <sub><em>April 4, 2025</em></sub>
-* 📷 [093 — Eighty-Eight](https://brandur.org/sequences/093) <sub><em>December 29, 2024</em></sub>
 
 ---
 

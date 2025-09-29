@@ -8,9 +8,9 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 
+* ⓝ [045 — Postgres 18](https://brandur.org/nanoglyphs/045-postgres-18) <sub><em>September 28, 2025</em></sub>
 * ⓝ [044 — STRAAT, iPhone Air](https://brandur.org/nanoglyphs/044-straat) <sub><em>September 22, 2025</em></sub>
 * ⓝ [043 — Rails World 2025, the Event Horizon, the Ruby Embassy](https://brandur.org/nanoglyphs/043-rails-world-2025) <sub><em>September 21, 2025</em></sub>
-* ⓝ [042 — Service Resumed](https://brandur.org/nanoglyphs/042-resumed) <sub><em>July 15, 2025</em></sub>
 
 ---
 

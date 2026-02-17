@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [101 — Lyon](https://brandur.org/sequences/101) <sub><em>February 8, 2026</em></sub>
+* 📷 [100 — First snow](https://brandur.org/sequences/100) <sub><em>January 19, 2026</em></sub>
 * 📷 [099 — Ambon](https://brandur.org/sequences/099) <sub><em>October 16, 2025</em></sub>
-* 📷 [098 — Over the hill](https://brandur.org/sequences/098) <sub><em>October 8, 2025</em></sub>
-* 📷 [097 — Loback Meat Co.](https://brandur.org/sequences/097) <sub><em>September 28, 2025</em></sub>
 
 ---
 

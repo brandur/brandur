@@ -8,9 +8,9 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 
+* ⓝ [049 — The Death Knell, Paradise](https://brandur.org/nanoglyphs/049-paradise) <sub><em>February 22, 2026</em></sub>
 * ⓝ [048 — The AI Edition](https://brandur.org/nanoglyphs/048-llms) <sub><em>February 8, 2026</em></sub>
 * ⓝ [047 — Stainless](https://brandur.org/nanoglyphs/047-stainless) <sub><em>January 19, 2026</em></sub>
-* ⓝ [046 — Negative, I am a YAML wrangler](https://brandur.org/nanoglyphs/046-yaml) <sub><em>October 8, 2025</em></sub>
 
 ---
 

@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [102 — Raja Ampat marker](https://brandur.org/sequences/102) <sub><em>February 22, 2026</em></sub>
 * 📷 [101 — Lyon](https://brandur.org/sequences/101) <sub><em>February 8, 2026</em></sub>
 * 📷 [100 — First snow](https://brandur.org/sequences/100) <sub><em>January 19, 2026</em></sub>
-* 📷 [099 — Ambon](https://brandur.org/sequences/099) <sub><em>October 16, 2025</em></sub>
 
 ---
 

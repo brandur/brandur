@@ -24,9 +24,9 @@ I put other stream of consciousness thoughts into tiny blog posts called [**frag
 
 Once in a while, I write longer form [**articles**](https://brandur.org/articles):
 
+* 📖 [The Second Wave of the API-first Economy](https://brandur.org/second-wave-api-first) <sub><em>March 27, 2026</em></sub>
 * 📖 [Eradicating N+1s: The Two-phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render) <sub><em>May 28, 2024</em></sub>
 * 📖 [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier) <sub><em>May 5, 2024</em></sub>
-* 📖 [Web APIs: Enriched DX By Disallowing Unknown Fields](https://brandur.org/disallow-unknown-fields) <sub><em>May 4, 2024</em></sub>
 
 ---
 

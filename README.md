@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [&#34;Somewhere&#34; (2010) review](https://brandur.org/fragments/somewhere) <sub><em>April 6, 2026</em></sub>
 * 🐚 [The special hell of Bolt, Europe&#39;s Uber clone](https://brandur.org/fragments/special-hell-of-bolt-app) <sub><em>July 15, 2025</em></sub>
 * 🐚 [Occasionally injected clocks in Postgres](https://brandur.org/fragments/postgres-clocks) <sub><em>June 29, 2025</em></sub>
-* 🐚 [Testing the graceful handling of request cancellation in Go, 499s](https://brandur.org/fragments/testing-request-cancellation) <sub><em>June 19, 2025</em></sub>
 
 ---
 

@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [104 — The Brooklyn Bridge](https://brandur.org/sequences/104) <sub><em>May 18, 2026</em></sub>
 * 📷 [103 — Piaynemo Geosite](https://brandur.org/sequences/103) <sub><em>March 29, 2026</em></sub>
 * 📷 [102 — Raja Ampat](https://brandur.org/sequences/102) <sub><em>February 22, 2026</em></sub>
-* 📷 [101 — Lyon](https://brandur.org/sequences/101) <sub><em>February 8, 2026</em></sub>
 
 ---
 

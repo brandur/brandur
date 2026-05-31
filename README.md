@@ -24,17 +24,17 @@ I put other stream of consciousness thoughts into tiny blog posts called [**frag
 
 Once in a while, I write longer form [**articles**](https://brandur.org/articles):
 
+* 📖 [The Minimum Viable Unit of Saleable Software](https://brandur.org/minimum-viable-unit) <sub><em>May 31, 2026</em></sub>
 * 📖 [The Second Wave of the API-first Economy](https://brandur.org/second-wave-api-first) <sub><em>March 27, 2026</em></sub>
 * 📖 [Eradicating N+1s: The Two-phase Data Load and Render Pattern in Go](https://brandur.org/two-phase-render) <sub><em>May 28, 2024</em></sub>
-* 📖 [The Notifier Pattern for Applications That Use Postgres](https://brandur.org/notifier) <sub><em>May 5, 2024</em></sub>
 
 ---
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [105 — Zlatnite Mostove](https://brandur.org/sequences/105) <sub><em>May 31, 2026</em></sub>
 * 📷 [104 — The Brooklyn Bridge](https://brandur.org/sequences/104) <sub><em>May 18, 2026</em></sub>
 * 📷 [103 — Piaynemo Geosite](https://brandur.org/sequences/103) <sub><em>March 29, 2026</em></sub>
-* 📷 [102 — Raja Ampat](https://brandur.org/sequences/102) <sub><em>February 22, 2026</em></sub>
 
 ---
 

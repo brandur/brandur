@@ -8,9 +8,9 @@ My [personal website is here](https://brandur.org) and I'm on Twitter at [***@br
 
 I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nanoglyph**](https://brandur.org/newsletter#nanoglyph) (which you should sign up for :). Here are its latest issues:
 
+* ⓝ [052 — Adrift, Minimum Viable Unit of Saleable Software, Balkans, Bears?!](https://brandur.org/nanoglyphs/052-adrift) <sub><em>June 1, 2026</em></sub>
 * ⓝ [051 — Well, That Was Fast](https://brandur.org/nanoglyphs/051-that-was-fast) <sub><em>May 18, 2026</em></sub>
 * ⓝ [050 — API Spring](https://brandur.org/nanoglyphs/050-api-spring) <sub><em>March 29, 2026</em></sub>
-* ⓝ [049 — The Death Knell, Paradise](https://brandur.org/nanoglyphs/049-paradise) <sub><em>February 22, 2026</em></sub>
 
 ---
 
@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
+* 📷 [106 — Vitosha Forest](https://brandur.org/sequences/106) <sub><em>June 1, 2026</em></sub>
 * 📷 [105 — Zlatnite Mostove](https://brandur.org/sequences/105) <sub><em>May 31, 2026</em></sub>
 * 📷 [104 — The Brooklyn Bridge](https://brandur.org/sequences/104) <sub><em>May 18, 2026</em></sub>
-* 📷 [103 — Piaynemo Geosite](https://brandur.org/sequences/103) <sub><em>March 29, 2026</em></sub>
 
 ---
 

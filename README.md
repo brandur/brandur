@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Generating words? Keep them short.](https://brandur.org/fragments/keep-them-short) <sub><em>June 5, 2026</em></sub>
 * 🐚 [Turns out, competition works](https://brandur.org/fragments/competition) <sub><em>April 23, 2026</em></sub>
 * 🐚 [Caveman](https://brandur.org/fragments/caveman) <sub><em>April 12, 2026</em></sub>
-* 🐚 [&#34;Somewhere&#34; (2010) review](https://brandur.org/fragments/somewhere) <sub><em>April 6, 2026</em></sub>
 
 ---
 

@@ -32,9 +32,9 @@ Once in a while, I write longer form [**articles**](https://brandur.org/articles
 
 As often as I can, I post a daily photo and update to [**sequences**](https://brandur.org/sequences):
 
-* 📷 [106 — Vitosha Forest](https://brandur.org/sequences/106) <sub><em>June 1, 2026</em></sub>
-* 📷 [105 — Zlatnite Mostove](https://brandur.org/sequences/105) <sub><em>May 31, 2026</em></sub>
-* 📷 [104 — The Brooklyn Bridge](https://brandur.org/sequences/104) <sub><em>May 18, 2026</em></sub>
+* 📷 [111 — Ladyslipper](https://brandur.org/sequences/111) <sub><em>June 19, 2026</em></sub>
+* 📷 [110 — Bull Creek Hills](https://brandur.org/sequences/110) <sub><em>June 18, 2026</em></sub>
+* 📷 [109 — Monolith](https://brandur.org/sequences/109) <sub><em>June 17, 2026</em></sub>
 
 ---
 

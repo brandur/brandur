@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [I used to add links by hand](https://brandur.org/fragments/links-by-hand) <sub><em>July 28, 2026</em></sub>
 * 🐚 [The paradox of free time](https://brandur.org/fragments/paradox-of-free-time) <sub><em>July 26, 2026</em></sub>
 * 🐚 [Rich, fully attributed context timeout errors in Go](https://brandur.org/fragments/attributed-context-errors) <sub><em>June 10, 2026</em></sub>
-* 🐚 [SQLite bulk insert with sqlc](https://brandur.org/fragments/sqlc-sqlite-bulk-insert) <sub><em>June 6, 2026</em></sub>
 
 ---
 

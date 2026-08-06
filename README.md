@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [River binaries will get 10 kB lighter](https://brandur.org/fragments/river-binaries-10-kb-lighter) <sub><em>August 6, 2026</em></sub>
 * 🐚 [pgtestdb&#39;s template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb) <sub><em>July 28, 2026</em></sub>
 * 🐚 [I used to add links by hand](https://brandur.org/fragments/links-by-hand) <sub><em>July 28, 2026</em></sub>
-* 🐚 [The paradox of free time](https://brandur.org/fragments/paradox-of-free-time) <sub><em>July 26, 2026</em></sub>
 
 ---
 

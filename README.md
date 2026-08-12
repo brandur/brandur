@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer) <sub><em>August 12, 2026</em></sub>
 * 🐚 [River binaries will get 10 kB lighter](https://brandur.org/fragments/river-binaries-10-kb-lighter) <sub><em>August 6, 2026</em></sub>
 * 🐚 [pgtestdb&#39;s template cloning approach to testing is fast](https://brandur.org/fragments/pgtestdb) <sub><em>July 28, 2026</em></sub>
-* 🐚 [I used to add links by hand](https://brandur.org/fragments/links-by-hand) <sub><em>July 28, 2026</em></sub>
 
 ---
 

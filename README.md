@@ -16,9 +16,9 @@ I'm a sometimes writer. Most frequently by publishing a newsletter called [**Nan
 
 I put other stream of consciousness thoughts into tiny blog posts called [**fragments**](https://brandur.org/fragments):
 
+* 🐚 [A couple tiny Codex TUI features](https://brandur.org/fragments/codex-tui-tiny-features) <sub><em>September 17, 2026</em></sub>
 * 🐚 [15 years later, a day without Tmux](https://brandur.org/fragments/tmux-15-years) <sub><em>September 17, 2026</em></sub>
 * 🐚 [Does anyone run Postgres without PgBouncer?](https://brandur.org/fragments/postgres-without-pgbouncer) <sub><em>August 12, 2026</em></sub>
-* 🐚 [River binaries will get 10 kB lighter](https://brandur.org/fragments/river-binaries-10-kb-lighter) <sub><em>August 6, 2026</em></sub>
 
 ---
 
